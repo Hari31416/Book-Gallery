@@ -1,0 +1,1686 @@
+{
+    "items": [
+        {
+            "name": "Dune",
+            "author": "Frank Herbert",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81fuj9MOHfL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61mlLxveN-L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71pUK2k0uHL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81fuj9MOHfL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61mlLxveN-L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71pUK2k0uHL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Dune_1_122x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Dune_2_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Dune_3_147x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Dune_1_1430x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Dune_2_651x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Dune_3_900x1333.jpg"
+            ]
+        },
+        {
+            "name": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91uoGUArEHL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91a0udfIPKL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71zNpKMRIwL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91uoGUArEHL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91a0udfIPKL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71zNpKMRIwL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Pride and Prejudice_1_171x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Pride and Prejudice_2_141x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Pride and Prejudice_3_138x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Pride and Prejudice_1_2008x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Pride and Prejudice_2_1557x2409.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Pride and Prejudice_3_1264x1996.jpg"
+            ]
+        },
+        {
+            "name": "The Eye of the World",
+            "author": "Robert Jordan",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91iK4KuFF8L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81hM-kGHY7L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/A1lIUWXBteS._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91iK4KuFF8L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81hM-kGHY7L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/A1lIUWXBteS.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Eye of the World_1_139x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Eye of the World_2_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Eye of the World_3_171x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Eye of the World_1_1488x2339.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Eye of the World_2_1400x2125.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Eye of the World_3_2013x2560.jpg"
+            ]
+        },
+        {
+            "name": "The Name of the Wind",
+            "author": "Patrick Rothfuss",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81GW++lxV-L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71jJcPTGd3L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/A1hqBSoxzhL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81GW++lxV-L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71jJcPTGd3L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/A1hqBSoxzhL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Name of the Wind_1_358x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Name of the Wind_2_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Name of the Wind_3_144x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Name of the Wind_1_2560x1539.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Name of the Wind_2_651x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Name of the Wind_3_1696x2560.jpg"
+            ]
+        },
+        {
+            "name": "Harry Potter and the Prisoner of Azkaban",
+            "author": "J.K. Rowling",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81EbEWM54ML._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71Uw7tBtffL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71f9MWKEynL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81EbEWM54ML.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71Uw7tBtffL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71f9MWKEynL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Harry Potter and the Prisoner of Azkaban_1_141x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Harry Potter and the Prisoner of Azkaban_2_187x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Harry Potter and the Prisoner of Azkaban_3_185x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Harry Potter and the Prisoner of Azkaban_1_1659x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Harry Potter and the Prisoner of Azkaban_2_1893x2356.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Harry Potter and the Prisoner of Azkaban_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "Daughter of the Deep",
+            "author": "Rick Riordan",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81zE4VEE38S._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81zE4VEE38S.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Daughter of the Deep_1_142x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Daughter of the Deep_1_1663x2560.jpg"
+            ]
+        },
+        {
+            "name": "The Eye of the World (The Wheel of Time, #1)",
+            "author": "Robert Jordan",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "Children of Dune (Dune Chronicles, #3)",
+            "author": "Frank Herbert",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "The Eye of the World",
+            "author": "Robert Jordan",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/51703RT6rgL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81P+H1t3DfL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71zx5BK7OIL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/51703RT6rgL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81P+H1t3DfL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71zx5BK7OIL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Eye of the World_1_164x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Eye of the World_2_139x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Eye of the World_3_282x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Eye of the World_1_375x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Eye of the World_2_1488x2339.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Eye of the World_3_1400x1083.jpg"
+            ]
+        },
+        {
+            "name": "Children of Dune",
+            "author": "Frank Herbert",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81odUbetAGL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91WGQ7G5mfL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71vE-n-fW7L._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81odUbetAGL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91WGQ7G5mfL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71vE-n-fW7L.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Children of Dune_1_161x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Children of Dune_2_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Children of Dune_3_136x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Children of Dune_1_1400x1900.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Children of Dune_2_1684x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Children of Dune_3_623x1000.jpg"
+            ]
+        },
+        {
+            "name": "A Storm of Swords: Steel and Snow",
+            "author": "George R.R. Martin",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71+7qxm35nL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71+7qxm35nL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\A Storm of Swords: Steel and Snow_1_201x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_A Storm of Swords: Steel and Snow_1_1292x1399.jpg"
+            ]
+        },
+        {
+            "name": "A Storm of Swords 2: Blood and Gold",
+            "author": "George R.R. Martin",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71Rz7IDzJnL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71Rz7IDzJnL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\A Storm of Swords 2: Blood and Gold_1_142x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_A Storm of Swords 2: Blood and Gold_1_1097x1686.jpg"
+            ]
+        },
+        {
+            "name": "Circe",
+            "author": "Madeline Miller",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/51ECswWT90L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61HQrRYOiWL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61T6hFg0RrL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/51ECswWT90L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61HQrRYOiWL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61T6hFg0RrL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Circe_1_139x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Circe_2_357x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Circe_3_358x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Circe_1_319x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Circe_2_1001x1001.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Circe_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "Rich Dad, Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "The First Three Minutes: A Modern View of the Origin of the Universe",
+            "author": "Steven Weinberg",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/51DgZnzKJ+L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71S1Dj5rA7L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/41RkreYrWgL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/51DgZnzKJ+L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71S1Dj5rA7L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/41RkreYrWgL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The First Three Minutes: A Modern View of the Origin of the Universe_1_146x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The First Three Minutes: A Modern View of the Origin of the Universe_2_154x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The First Three Minutes: A Modern View of the Origin of the Universe_3_143x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The First Three Minutes: A Modern View of the Origin of the Universe_1_334x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The First Three Minutes: A Modern View of the Origin of the Universe_2_1000x1415.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The First Three Minutes: A Modern View of the Origin of the Universe_3_329x500.jpg"
+            ]
+        },
+        {
+            "name": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81BPr3Pb9tS._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91k4PrTuiSL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61gNS9wkmNL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81BPr3Pb9tS.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91k4PrTuiSL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61gNS9wkmNL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Song of Achilles_1_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Song of Achilles_2_139x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Song of Achilles_3_353x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Song of Achilles_1_1517x2328.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Song of Achilles_2_1478x2320.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Song of Achilles_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "Legendary",
+            "author": "Stephanie Garber",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71NdXFz5JCL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81A7Ig3BPtL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81unYzab9VL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71NdXFz5JCL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81A7Ig3BPtL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81unYzab9VL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Legendary_1_208x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Legendary_2_252x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Legendary_3_143x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Legendary_1_960x1007.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Legendary_2_2560x2209.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Legendary_3_1679x2560.jpg"
+            ]
+        },
+        {
+            "name": "Finale",
+            "author": "Stephanie Garber",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/711Ia+OJeCL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81A7Ig3BPtL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91KyOim1DyL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/711Ia+OJeCL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81A7Ig3BPtL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91KyOim1DyL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Finale_1_167x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Finale_2_252x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Finale_3_148x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Finale_1_1044x1360.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Finale_2_2560x2209.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Finale_3_1598x2359.jpg"
+            ]
+        },
+        {
+            "name": "Caraval",
+            "author": "Stephanie Garber",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/815D5sneiNL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81A7Ig3BPtL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81unYzab9VL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/815D5sneiNL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81A7Ig3BPtL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81unYzab9VL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Caraval_1_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Caraval_2_252x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Caraval_3_143x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Caraval_1_1530x2338.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Caraval_2_2560x2209.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Caraval_3_1679x2560.jpg"
+            ]
+        },
+        {
+            "name": "Learn to Earn: A Beginner's Guide to the Basics of Investing and Business",
+            "author": "Peter Lynch",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71mF2spThdL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/51R888UsYNL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71mF2spThdL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51R888UsYNL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Learn to Earn: A Beginner's Guide to the Basics of Investing and Business_1_146x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Learn to Earn: A Beginner's Guide to the Basics of Investing and Business_2_280x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Learn to Earn: A Beginner's Guide to the Basics of Investing and Business_1_738x1100.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Learn to Earn: A Beginner's Guide to the Basics of Investing and Business_2_500x389.jpg"
+            ]
+        },
+        {
+            "name": "Computing with Quantum Cats: From Colossus to Qubits",
+            "author": "John Gribbin",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/814hOfIVAwL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/814hOfIVAwL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Computing with Quantum Cats: From Colossus to Qubits_1_139x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Computing with Quantum Cats: From Colossus to Qubits_1_1500x2349.jpg"
+            ]
+        },
+        {
+            "name": "Godsgrave",
+            "author": "Jay Kristoff",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/51hISrko62L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61y76I8z4dL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61KntWJ76DL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/51hISrko62L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61y76I8z4dL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61KntWJ76DL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Godsgrave_1_145x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Godsgrave_2_359x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Godsgrave_3_362x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Godsgrave_1_332x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Godsgrave_2_1000x637.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Godsgrave_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "Nevernight",
+            "author": "Jay Kristoff",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/61MtvxRIhFL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/51hISrko62L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71QA4K+dh8L._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/61MtvxRIhFL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51hISrko62L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71QA4K+dh8L.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Nevernight_1_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Nevernight_2_145x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Nevernight_3_186x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Nevernight_1_669x1024.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Nevernight_2_332x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Nevernight_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "Pebble in the Sky",
+            "author": "Isaac Asimov",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/51fK6jq+pDL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/41CUAqzJ0HL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/51fK6jq+pDL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Pebble in the Sky_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Pebble in the Sky_2_218x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Pebble in the Sky_1_330x500.jpg"
+            ]
+        },
+        {
+            "name": "The End of Eternity",
+            "author": "Isaac Asimov",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71JgqNxxuBL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61wSLa0cJAL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/51ojr3lihWL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/61wSLa0cJAL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51ojr3lihWL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The End of Eternity_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The End of Eternity_2_136x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The End of Eternity_3_140x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The End of Eternity_2_312x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The End of Eternity_3_320x500.jpg"
+            ]
+        },
+        {
+            "name": "The Gods Themselves",
+            "author": "Isaac Asimov",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91tuDxrEzDL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/513S-9xOT1L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71GGALG6zjL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91tuDxrEzDL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/513S-9xOT1L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71GGALG6zjL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Gods Themselves_1_131x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Gods Themselves_2_131x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Gods Themselves_3_146x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Gods Themselves_1_1439x2392.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Gods Themselves_2_301x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Gods Themselves_3_1684x2560.jpg"
+            ]
+        },
+        {
+            "name": "\u0915\u093e\u092e\u093e\u092f\u0928\u0940",
+            "author": "\u091c\u092f\u0936\u0902\u0915\u0930 \u092a\u094d\u0930\u0938\u093e\u0926",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71OzNyE9W0L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/817gx86L40L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61PU8t3WXkL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/817gx86L40L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61PU8t3WXkL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\\u0915\u093e\u092e\u093e\u092f\u0928\u0940_1_136x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\\u0915\u093e\u092e\u093e\u092f\u0928\u0940_2_132x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\\u0915\u093e\u092e\u093e\u092f\u0928\u0940_3_140x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_\u0915\u093e\u092e\u093e\u092f\u0928\u0940_2_1550x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_\u0915\u093e\u092e\u093e\u092f\u0928\u0940_3_770x1200.jpg"
+            ]
+        },
+        {
+            "name": "\u0938\u094d\u0915\u0902\u0926\u0917\u0941\u092a\u094d\u0924",
+            "author": "\u091c\u092f\u0936\u0902\u0915\u0930 \u092a\u094d\u0930\u0938\u093e\u0926",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/41Z7P+7CfOL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\\u0938\u094d\u0915\u0902\u0926\u0917\u0941\u092a\u094d\u0924_1_71x218.jpg"
+            ],
+            "high_file_paths": []
+        },
+        {
+            "name": "\u0917\u094b\u0926\u093e\u0928 [Godaan]",
+            "author": "Munshi Premchand",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "Nirmala",
+            "author": "Munshi Premchand",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91wpgeDo5AS._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61udMnaf0JL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81TwpHHx63S._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91wpgeDo5AS.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61udMnaf0JL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81TwpHHx63S.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Nirmala_1_168x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Nirmala_2_187x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Nirmala_3_176x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Nirmala_1_2292x2481.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Nirmala_2_707x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Nirmala_3_1938x2560.jpg"
+            ]
+        },
+        {
+            "name": "Gaban",
+            "author": "Munshi Premchand",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71cx7DCQblL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/41I88aru+KL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61zOEYxQHqL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71cx7DCQblL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/41I88aru+KL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61zOEYxQHqL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Gaban_1_140x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Gaban_2_133x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Gaban_3_353x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Gaban_1_843x1314.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Gaban_2_302x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Gaban_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "\u0935\u0930\u0926\u093e\u0928",
+            "author": "Munshi Premchand",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71+W79tsTKL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/A18ABCjK0nL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81950BqjRuL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71+W79tsTKL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/A18ABCjK0nL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\\u0935\u0930\u0926\u093e\u0928_1_141x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\\u0935\u0930\u0926\u093e\u0928_2_145x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\\u0935\u0930\u0926\u093e\u0928_3_137x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_\u0935\u0930\u0926\u093e\u0928_1_1649x2552.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_\u0935\u0930\u0926\u093e\u0928_2_1690x2546.jpg"
+            ]
+        },
+        {
+            "name": "Arcanum Unbounded: The Cosmere Collection",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71HgtuotKaL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71N+HzqbJdL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71HgtuotKaL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Arcanum Unbounded: The Cosmere Collection_1_151x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Arcanum Unbounded: The Cosmere Collection_2_218x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Arcanum Unbounded: The Cosmere Collection_1_652x1000.jpg"
+            ]
+        },
+        {
+            "name": "Gone with the Wind",
+            "author": "Margaret Mitchell",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/61ikrH3N+eL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/41V6VJH0XmS._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91mNrwSYftL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/61ikrH3N+eL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/41V6VJH0XmS.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91mNrwSYftL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Gone with the Wind_1_164x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Gone with the Wind_2_135x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Gone with the Wind_3_176x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Gone with the Wind_1_960x1280.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Gone with the Wind_2_310x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Gone with the Wind_3_2215x2560.jpg"
+            ]
+        },
+        {
+            "name": "Hard Times",
+            "author": "Charles Dickens",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81j8i9slKIL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/710VzwJIMVL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81H3Yd8S69L._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81j8i9slKIL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/710VzwJIMVL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81H3Yd8S69L.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Hard Times_1_174x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Hard Times_2_146x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Hard Times_3_140x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Hard Times_1_2319x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Hard Times_2_1000x1498.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Hard Times_3_1399x2186.jpg"
+            ]
+        },
+        {
+            "name": "Har ry Potter and the Philosopher's Stone",
+            "author": "J.K. Rowling",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81Np8BWzjwL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91b0X3BfLfL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81Np8BWzjwL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81Np8BWzjwL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91b0X3BfLfL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81Np8BWzjwL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Har ry Potter and the Philosopher's Stone_1_134x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Har ry Potter and the Philosopher's Stone_2_188x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Har ry Potter and the Philosopher's Stone_3_134x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Har ry Potter and the Philosopher's Stone_1_1570x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Har ry Potter and the Philosopher's Stone_2_2204x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Har ry Potter and the Philosopher's Stone_3_1570x2560.jpg"
+            ]
+        },
+        {
+            "name": "Cytonic",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81-dX7lZ0cS._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91jeB89uMJL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71Qk1pthbzL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81-dX7lZ0cS.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91jeB89uMJL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71Qk1pthbzL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Cytonic_1_145x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Cytonic_2_139x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Cytonic_3_142x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Cytonic_1_1706x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Cytonic_2_1469x2297.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Cytonic_3_653x1000.jpg"
+            ]
+        },
+        {
+            "name": "Evershore",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/61cVcz4R8SL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Evershore_1_164x218.jpg"
+            ],
+            "high_file_paths": []
+        },
+        {
+            "name": "ReDawn",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/01RPy1SfeqL._AC_UY218_.gif",
+                "https://m.media-amazon.com/images/I/81s47Ovt3JL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71Amow9v0nL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/81s47Ovt3JL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\ReDawn_1_327x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\ReDawn_2_150x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\ReDawn_3_142x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_ReDawn_2_1756x2560.jpg"
+            ]
+        },
+        {
+            "name": "Sunreach",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/01RPy1SfeqL._AC_UY218_.gif",
+                "https://m.media-amazon.com/images/I/81s47Ovt3JL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/811GtU6Z72L._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/81s47Ovt3JL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Sunreach_1_327x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Sunreach_2_150x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Sunreach_3_142x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Sunreach_2_1756x2560.jpg"
+            ]
+        },
+        {
+            "name": "Arcanum Unbounded: The Cosmere Collection",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91a8agptVEL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71N+HzqbJdL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91a8agptVEL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Arcanum Unbounded: The Cosmere Collection_1_202x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Arcanum Unbounded: The Cosmere Collection_2_218x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Arcanum Unbounded: The Cosmere Collection_1_2372x2560.jpg"
+            ]
+        },
+        {
+            "name": "The Well of Ascension",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91v0vIqvFlL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/31YiGiYgT9L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71Mglq0SaOL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/31YiGiYgT9L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71Mglq0SaOL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Well of Ascension_1_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Well of Ascension_2_156x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Well of Ascension_3_254x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Well of Ascension_2_134x187.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Well of Ascension_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "Starsight",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/917LZgqrvPS._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91jeB89uMJL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81V-8jsgsPL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/91jeB89uMJL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81V-8jsgsPL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Starsight_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Starsight_2_139x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Starsight_3_143x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Starsight_2_1469x2297.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Starsight_3_1682x2560.jpg"
+            ]
+        },
+        {
+            "name": "Skyward",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71Amow9v0nL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71Qk1pthbzL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/01RPy1SfeqL._AC_UY218_.gif"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/71Qk1pthbzL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Skyward_1_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Skyward_2_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Skyward_3_327x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Skyward_2_653x1000.jpg"
+            ]
+        },
+        {
+            "name": "The Final Empire",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91TWQ17KKBL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81PUv5VBl1L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71KFwge6xeL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/81PUv5VBl1L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71KFwge6xeL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Final Empire_1_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Final Empire_2_141x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Final Empire_3_157x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Final Empire_2_1653x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Final Empire_3_756x1000.jpg"
+            ]
+        },
+        {
+            "name": "The Hero of Ages",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/61Dxx3SjXJL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81ltNKjDKWL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61jKFSx+iGL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/61Dxx3SjXJL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81ltNKjDKWL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61jKFSx+iGL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Hero of Ages_1_181x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Hero of Ages_2_141x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Hero of Ages_3_182x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Hero of Ages_1_1001x1001.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Hero of Ages_2_1583x2447.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Hero of Ages_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "The Hope of Elantris",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81OaHR9758L._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Hope of Elantris_1_218x218.jpg"
+            ],
+            "high_file_paths": []
+        },
+        {
+            "name": "Warbreaker",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81h8REBrGlL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71UPy7zQJdL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71XeplVnUPL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/71UPy7zQJdL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71XeplVnUPL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Warbreaker_1_147x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Warbreaker_2_148x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Warbreaker_3_218x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Warbreaker_2_653x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Warbreaker_3_1200x1200.jpg"
+            ]
+        },
+        {
+            "name": "Words of Radiance",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91KzZWpgmyL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81hGZQ0SHeL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71ikge6UGlL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91KzZWpgmyL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81hGZQ0SHeL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71ikge6UGlL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Words of Radiance_1_134x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Words of Radiance_2_140x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Words of Radiance_3_141x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Words of Radiance_1_1572x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Words of Radiance_2_1642x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Words of Radiance_3_652x1000.jpg"
+            ]
+        },
+        {
+            "name": "The Way of Kings",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81M2w1UymLL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91KzZWpgmyL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61VeqblprYL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81M2w1UymLL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91KzZWpgmyL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61VeqblprYL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Way of Kings_1_150x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Way of Kings_2_134x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Way of Kings_3_216x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Way of Kings_1_1500x2187.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Way of Kings_2_1572x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Way of Kings_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "Secret History",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/819ox7WdLVL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/819ox7WdLVL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Secret History_1_151x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Secret History_1_1125x1621.jpg"
+            ]
+        },
+        {
+            "name": "The Eleventh Metal",
+            "author": "Brandon Sanderson",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "The Dark Talent",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81MT7+rEtaL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91CAbtZ37qL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/41wj+zwwfzL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/91CAbtZ37qL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Dark Talent_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Dark Talent_2_138x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Dark Talent_3_228x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Dark Talent_2_1615x2560.jpg"
+            ]
+        },
+        {
+            "name": "Alcatraz Versus the Shattered Lens",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91zGHWxBkyL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/51zWTnD4SiS._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71TuLpzuSPL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/51zWTnD4SiS.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Alcatraz Versus the Shattered Lens_1_218x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Alcatraz Versus the Shattered Lens_2_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Alcatraz Versus the Shattered Lens_3_294x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Alcatraz Versus the Shattered Lens_2_325x500.jpg"
+            ]
+        },
+        {
+            "name": "Alcatraz Versus the Knights of Crystallia",
+            "author": "Brandon Sanderson",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "Alcatraz Versus the Scrivener's Bones",
+            "author": "Brandon Sanderson",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "Rhythm of War",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91XTjWp2-vL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61RHrv9n7BL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91Nb4w7arrL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91XTjWp2-vL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61RHrv9n7BL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91Nb4w7arrL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Rhythm of War_1_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Rhythm of War_2_185x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Rhythm of War_3_142x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Rhythm of War_1_1684x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Rhythm of War_2_1001x1001.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Rhythm of War_3_1671x2560.jpg"
+            ]
+        },
+        {
+            "name": "Alcatraz Versus the Evil Librarians",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/912AL4tE33L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81190KdH1JL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91hRJzhbm6L._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/912AL4tE33L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81190KdH1JL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91hRJzhbm6L.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Alcatraz Versus the Evil Librarians_1_146x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Alcatraz Versus the Evil Librarians_2_146x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Alcatraz Versus the Evil Librarians_3_138x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Alcatraz Versus the Evil Librarians_1_1712x2550.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Alcatraz Versus the Evil Librarians_2_1713x2554.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Alcatraz Versus the Evil Librarians_3_1617x2560.jpg"
+            ]
+        },
+        {
+            "name": "Dawnshard",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91RlsQdgs3S._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81E+Yp2VyZL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/419BIgnElXL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91RlsQdgs3S.jpg",
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/419BIgnElXL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Dawnshard_1_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Dawnshard_2_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Dawnshard_3_146x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Dawnshard_1_1676x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Dawnshard_3_326x500.jpg"
+            ]
+        },
+        {
+            "name": "The Rithmatist",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91mF3mur4YL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/51evbOAwb-L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91sjkMqKLZL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91mF3mur4YL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51evbOAwb-L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91sjkMqKLZL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Rithmatist_1_145x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Rithmatist_2_157x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Rithmatist_3_144x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Rithmatist_1_1705x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Rithmatist_2_360x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Rithmatist_3_1691x2560.jpg"
+            ]
+        },
+        {
+            "name": "Sixth of the Dusk",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81saovWy0JL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Sixth of the Dusk_1_136x218.jpg"
+            ],
+            "high_file_paths": []
+        },
+        {
+            "name": "Shadows for Silence in the Forests of Hell",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/710Q1t9fcSL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61KB7mti9xL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81INznwEgrL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/710Q1t9fcSL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61KB7mti9xL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Shadows for Silence in the Forests of Hell_1_136x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Shadows for Silence in the Forests of Hell_2_136x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Shadows for Silence in the Forests of Hell_3_218x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Shadows for Silence in the Forests of Hell_1_660x1057.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Shadows for Silence in the Forests of Hell_2_660x1057.jpg"
+            ]
+        },
+        {
+            "name": "Lies of the Beholder",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71Tcm14QnjL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/610B6xsSpTL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71GAjn-vIqL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71Tcm14QnjL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/610B6xsSpTL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Lies of the Beholder_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Lies of the Beholder_2_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Lies of the Beholder_3_377x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Lies of the Beholder_1_659x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Lies of the Beholder_2_659x1000.jpg"
+            ]
+        },
+        {
+            "name": "Skin Deep",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71Tcm14QnjL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/51TiqHaXYaL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/611ODMk3viL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71Tcm14QnjL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51TiqHaXYaL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/611ODMk3viL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Skin Deep_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Skin Deep_2_136x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Skin Deep_3_142x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Skin Deep_1_659x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Skin Deep_2_660x1057.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Skin Deep_3_650x1000.jpg"
+            ]
+        },
+        {
+            "name": "Legion",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81DS3x83dKL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71Tcm14QnjL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61HRMXOQO5L._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/71Tcm14QnjL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61HRMXOQO5L.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Legion_1_168x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Legion_2_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Legion_3_136x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Legion_2_659x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Legion_3_660x1057.jpg"
+            ]
+        },
+        {
+            "name": "White Sand, Volume 1",
+            "author": "Brandon Sanderson",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "Redemption",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/713taLF3DJL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91-9+l838RL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/41MVyyuN0cL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/713taLF3DJL.jpg",
+                null,
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Redemption_1_141x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Redemption_2_218x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Redemption_3_227x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Redemption_1_922x1422.jpg"
+            ]
+        },
+        {
+            "name": "Awakening",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91q746AxZtL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91QAgmazjnL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71Zj6Nvy2QL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91q746AxZtL.jpg",
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/71Zj6Nvy2QL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Awakening_1_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Awakening_2_218x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Awakening_3_141x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Awakening_1_1678x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Awakening_3_880x1360.jpg"
+            ]
+        },
+        {
+            "name": "White Sand",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91icDmBtVcL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61dfOI9nPqL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81U1Es36qBL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/91icDmBtVcL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61dfOI9nPqL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81U1Es36qBL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\White Sand_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\White Sand_2_140x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\White Sand_3_145x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_White Sand_1_1486x2251.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_White Sand_2_320x500.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_White Sand_3_1200x1800.jpg"
+            ]
+        },
+        {
+            "name": "Calamity",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81tgreiPDbL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/716CXDAvzNL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/91QeQPq-4xL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/716CXDAvzNL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/91QeQPq-4xL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Calamity_1_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Calamity_2_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Calamity_3_143x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Calamity_2_650x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Calamity_3_1684x2560.jpg"
+            ]
+        },
+        {
+            "name": "Mitosis",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/61FyZMCS9VL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81Nl9wLrDwL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/61FyZMCS9VL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Mitosis_1_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Mitosis_2_138x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Mitosis_1_654x1000.jpg"
+            ]
+        },
+        {
+            "name": "Firefight",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81ieP5DU7KL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71xDJK9islL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/51+eSddjiFL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/71xDJK9islL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51+eSddjiFL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Firefight_1_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Firefight_2_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Firefight_3_136x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Firefight_2_651x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Firefight_3_313x500.jpg"
+            ]
+        },
+        {
+            "name": "Steelheart",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91tOBsQQtZL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71UNIW5+WdL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81x6L9SD0RL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/71UNIW5+WdL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81x6L9SD0RL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Steelheart_1_140x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Steelheart_2_141x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Steelheart_3_137x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Steelheart_2_649x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Steelheart_3_1400x2128.jpg"
+            ]
+        },
+        {
+            "name": "The Way of Kings Prime",
+            "author": "Brandon Sanderson",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "Mistborn Trilogy Boxed Set",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81hGZQ0SHeL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81hGZQ0SHeL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Mistborn Trilogy Boxed Set_1_140x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Mistborn Trilogy Boxed Set_1_1642x2560.jpg"
+            ]
+        },
+        {
+            "name": "The Lost Metal",
+            "author": "Brandon Sanderson",
+            "low_links": [],
+            "high_links": [],
+            "low_file_paths": [],
+            "high_file_paths": []
+        },
+        {
+            "name": "The Bands of Mourning",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71mI6xzzpML._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61-A-A+haTL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71mI6xzzpML.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61-A-A+haTL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Bands of Mourning_1_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Bands of Mourning_2_142x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Bands of Mourning_1_654x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Bands of Mourning_2_651x1000.jpg"
+            ]
+        },
+        {
+            "name": "Shadows of Self",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81yfZ9U7ApL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/611cfGXPoXL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/616yVv-ekYL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81yfZ9U7ApL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/611cfGXPoXL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/616yVv-ekYL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Shadows of Self_1_140x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Shadows of Self_2_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Shadows of Self_3_288x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Shadows of Self_1_1500x2339.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Shadows of Self_2_657x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Shadows of Self_3_1001x1001.jpg"
+            ]
+        },
+        {
+            "name": "The Alloy of Law",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81LpHiHj-yL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81tA+z79OAL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/811LHMvugKL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/81LpHiHj-yL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81tA+z79OAL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/811LHMvugKL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Alloy of Law_1_143x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Alloy of Law_2_142x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Alloy of Law_3_148x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Alloy of Law_1_1676x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Alloy of Law_2_1662x2560.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Alloy of Law_3_1280x1903.jpg"
+            ]
+        },
+        {
+            "name": "Edgedancer",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71p1itThDFL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81TlZL2oy-L._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71p1itThDFL.jpg",
+                null
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Edgedancer_1_141x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Edgedancer_2_148x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Edgedancer_1_647x1000.jpg"
+            ]
+        },
+        {
+            "name": "The Emperor's Soul",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/71aFt4+OTOL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61Kwr+S16EL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/71d13d+zCXL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61Kwr+S16EL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71d13d+zCXL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Emperor's Soul_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Emperor's Soul_2_140x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\The Emperor's Soul_3_175x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Emperor's Soul_1_1500x2274.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Emperor's Soul_2_643x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_The Emperor's Soul_3_1280x1280.jpg"
+            ]
+        },
+        {
+            "name": "Oathbringer",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/91UY3DMqxOL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/718v02IAUrL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/81Jb4X9X1dL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/718v02IAUrL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81Jb4X9X1dL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Oathbringer_1_144x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Oathbringer_2_138x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Oathbringer_3_145x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Oathbringer_2_1053x1658.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Oathbringer_3_1285x1930.jpg"
+            ]
+        },
+        {
+            "name": "Elantris",
+            "author": "Brandon Sanderson",
+            "low_links": [
+                "https://m.media-amazon.com/images/I/81DS3x83dKL._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/61G1y6uaG0L._AC_UY218_.jpg",
+                "https://m.media-amazon.com/images/I/518uuiLFQJL._AC_UY218_.jpg"
+            ],
+            "high_links": [
+                null,
+                "https://images-na.ssl-images-amazon.com/images/I/61G1y6uaG0L.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/518uuiLFQJL.jpg"
+            ],
+            "low_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Elantris_1_168x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Elantris_2_145x218.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\low\\Elantris_3_133x218.jpg"
+            ],
+            "high_file_paths": [
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Elantris_2_651x1000.jpg",
+                "c:\\Users\\harik\\Desktop\\hari31416.github.io\\Projects\\Book_Library\\Python\\img\\high\\h_Elantris_3_305x500.jpg"
+            ]
+        }
+    ]
+}

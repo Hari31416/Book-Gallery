@@ -1,0 +1,2848 @@
+{
+    "items": [
+        {
+            "name": "Python 3 Object Oriented Programming",
+            "author": "Dusty Phillips",
+            "isbn13": 9781849511261,
+            "publisher": "Packt Publishing",
+            "avg-rating": 4.02,
+            "num-pages": 388,
+            "publication-year": 2010
+        },
+        {
+            "name": "Automate the Boring Stuff with Python: Practical Programming for Total Beginners",
+            "author": "Al Sweigart",
+            "isbn13": 9781593275990,
+            "publisher": "No Starch Press",
+            "avg-rating": 4.29,
+            "num-pages": 479,
+            "publication-year": 2014
+        },
+        {
+            "name": "An Introduction to Statistical Learning: With Applications in R",
+            "author": "Gareth James",
+            "isbn13": 9781461471370,
+            "publisher": "Springer",
+            "avg-rating": 4.61,
+            "num-pages": 426,
+            "publication-year": 2013
+        },
+        {
+            "name": "Cytonic (Skyward, #3)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9781473217935,
+            "publisher": "Gollancz",
+            "avg-rating": 4.34,
+            "num-pages": 409,
+            "publication-year": 2021
+        },
+        {
+            "name": "Dune Messiah (Dune Chronicles, #2)",
+            "author": "Frank Herbert",
+            "isbn13": 9780593098233,
+            "publisher": "Ace Books",
+            "avg-rating": 3.89,
+            "num-pages": 337,
+            "publication-year": 1969
+        },
+        {
+            "name": "Dune (Dune, #1)",
+            "author": "Frank Herbert",
+            "isbn13": 9780593099322,
+            "publisher": "Ace Books",
+            "avg-rating": 4.24,
+            "num-pages": 688,
+            "publication-year": 1965
+        },
+        {
+            "name": "ReDawn (Skyward #2.2)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780593566626,
+            "publisher": "Delacorte Press",
+            "avg-rating": 4.33,
+            "num-pages": 229,
+            "publication-year": 2021
+        },
+        {
+            "name": "Ready Player One (Ready Player One, #1)",
+            "author": "Ernest Cline",
+            "isbn13": 9780307887436,
+            "publisher": "Crown Publishers",
+            "avg-rating": 4.24,
+            "num-pages": 374,
+            "publication-year": 2011
+        },
+        {
+            "name": "Leviathan Wakes (The Expanse, #1)",
+            "author": "James S.A. Corey",
+            "isbn13": 9781841499888,
+            "publisher": "Orbit",
+            "avg-rating": 4.25,
+            "num-pages": 561,
+            "publication-year": 2011
+        },
+        {
+            "name": "Sunreach (Skyward #2.1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780593566619,
+            "publisher": "Delacorte Press",
+            "avg-rating": 4.25,
+            "num-pages": 208,
+            "publication-year": 2021
+        },
+        {
+            "name": "Daughter of the Deep",
+            "author": "Rick Riordan",
+            "isbn13": 9781368077927,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.36,
+            "num-pages": 352,
+            "publication-year": 2021
+        },
+        {
+            "name": "The Eye of the World (The Wheel of Time, #1)",
+            "author": "Robert Jordan",
+            "isbn13": 9780812511819,
+            "publisher": "Tor Books",
+            "avg-rating": 4.17,
+            "num-pages": 814,
+            "publication-year": 1990
+        },
+        {
+            "name": "Children of Dune (Dune Chronicles, #3)",
+            "author": "Frank Herbert",
+            "isbn13": 9780593098240,
+            "publisher": "Ace Books",
+            "avg-rating": 3.95,
+            "num-pages": 609,
+            "publication-year": 1976
+        },
+        {
+            "name": "\"What Do You Care What Other People Think?\": Further Adventures of a Curious Character",
+            "author": "Richard P. Feynman",
+            "isbn13": 9780393355642,
+            "publisher": "W. W. Norton  Company",
+            "avg-rating": 4.11,
+            "num-pages": 288,
+            "publication-year": 1988
+        },
+        {
+            "name": "A Storm of Swords: Steel and Snow (A Song of Ice and Fire, #3: Part 1 of 2)",
+            "author": "George R.R. Martin",
+            "isbn13": 9780006479901,
+            "publisher": "HarperVoyager",
+            "avg-rating": 4.42,
+            "num-pages": 663,
+            "publication-year": 2000
+        },
+        {
+            "name": "A Storm of Swords 2: Blood and Gold (A Song of Ice and Fire, #3, Part 2 of 2)",
+            "author": "George R.R. Martin",
+            "isbn13": 9780007119554,
+            "publisher": "HarperVoyager ",
+            "avg-rating": 4.5,
+            "num-pages": 639,
+            "publication-year": 2000
+        },
+        {
+            "name": "Circe",
+            "author": "Madeline Miller",
+            "isbn13": 9780316556347,
+            "publisher": "Little, Brown and Company",
+            "avg-rating": 4.26,
+            "num-pages": 393,
+            "publication-year": 2018
+        },
+        {
+            "name": "Rich Dad, Poor Dad",
+            "author": "Robert T. Kiyosaki",
+            "isbn13": 9780751532715,
+            "publisher": "Time Warner Books UK",
+            "avg-rating": 4.1,
+            "num-pages": 195,
+            "publication-year": 1997
+        },
+        {
+            "name": "The First Three Minutes: A Modern View of the Origin of the Universe",
+            "author": "Steven Weinberg",
+            "isbn13": 9780465024377,
+            "publisher": "Basic Books",
+            "avg-rating": 4.09,
+            "num-pages": 203,
+            "publication-year": 1977
+        },
+        {
+            "name": "The Song of Achilles",
+            "author": "Madeline Miller",
+            "isbn13": 9780062060624,
+            "publisher": "Ecco",
+            "avg-rating": 4.41,
+            "num-pages": 378,
+            "publication-year": 2011
+        },
+        {
+            "name": "Legendary (Caraval, #2)",
+            "author": "Stephanie Garber",
+            "isbn13": 9781250095312,
+            "publisher": "Flatiron Books",
+            "avg-rating": 4.23,
+            "num-pages": 451,
+            "publication-year": 2018
+        },
+        {
+            "name": "Finale (Caraval, #3)",
+            "author": "Stephanie Garber",
+            "isbn13": 9781250157669,
+            "publisher": "Flatiron Books",
+            "avg-rating": 4.2,
+            "num-pages": 478,
+            "publication-year": 2019
+        },
+        {
+            "name": "Caraval (Caraval, #1)",
+            "author": "Stephanie Garber",
+            "isbn13": 9781250095251,
+            "publisher": "Flatiron Books",
+            "avg-rating": 3.97,
+            "num-pages": 407,
+            "publication-year": 2017
+        },
+        {
+            "name": "Learn to Earn: A Beginner's Guide to the Basics of Investing and Business",
+            "author": "Peter Lynch",
+            "isbn13": 9780684811635,
+            "publisher": "Simon  Schuster",
+            "avg-rating": 4.04,
+            "num-pages": 272,
+            "publication-year": 1995
+        },
+        {
+            "name": "Computing with Quantum Cats: From Colossus to Qubits",
+            "author": "John Gribbin",
+            "isbn13": 9780593071151,
+            "publisher": "Bantam Press",
+            "avg-rating": 3.74,
+            "num-pages": 304,
+            "publication-year": 2013
+        },
+        {
+            "name": "Godsgrave (The Nevernight Chronicle, #2)",
+            "author": "Jay Kristoff",
+            "isbn13": 9781250073037,
+            "publisher": "St. Martin's Press",
+            "avg-rating": 4.49,
+            "num-pages": 419,
+            "publication-year": 2017
+        },
+        {
+            "name": "Nevernight (The Nevernight Chronicle, #1)",
+            "author": "Jay Kristoff",
+            "isbn13": 9781250073020,
+            "publisher": "St. Martin's Press",
+            "avg-rating": 4.2,
+            "num-pages": 429,
+            "publication-year": 2016
+        },
+        {
+            "name": "Pebble in the Sky (Galactic Empire #3)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553293425,
+            "publisher": "Bantam",
+            "avg-rating": 3.89,
+            "num-pages": 308,
+            "publication-year": 1950
+        },
+        {
+            "name": "The End of Eternity",
+            "author": "Isaac Asimov",
+            "isbn13": 9780449016190,
+            "publisher": "Fawcett Crest",
+            "avg-rating": 4.23,
+            "num-pages": 192,
+            "publication-year": 1955
+        },
+        {
+            "name": "The Gods Themselves",
+            "author": "Isaac Asimov",
+            "isbn13": 9781857989342,
+            "publisher": "Millenium",
+            "avg-rating": 4.09,
+            "num-pages": 288,
+            "publication-year": 1972
+        },
+        {
+            "name": "\u0915\u093e\u092e\u093e\u092f\u0928\u0940",
+            "author": "\u091c\u092f\u0936\u0902\u0915\u0930 \u092a\u094d\u0930\u0938\u093e\u0926",
+            "isbn13": 9788171783212,
+            "publisher": "Rajkamal Prakashan",
+            "avg-rating": 4.27,
+            "num-pages": 159,
+            "publication-year": 1936
+        },
+        {
+            "name": "\u0938\u094d\u0915\u0902\u0926\u0917\u0941\u092a\u094d\u0924",
+            "author": "\u091c\u092f\u0936\u0902\u0915\u0930 \u092a\u094d\u0930\u0938\u093e\u0926",
+            "isbn13": 9788179873533,
+            "publisher": NaN,
+            "avg-rating": 4.1,
+            "num-pages": 120,
+            "publication-year": 1964
+        },
+        {
+            "name": "\u0917\u094b\u0926\u093e\u0928 [Godaan]",
+            "author": "Munshi Premchand",
+            "isbn13": 9788172242190,
+            "publisher": "Jaico Publishing House",
+            "avg-rating": 4.37,
+            "num-pages": 352,
+            "publication-year": 1936
+        },
+        {
+            "name": "Nirmala",
+            "author": "Munshi Premchand",
+            "isbn13": 9780195658262,
+            "publisher": "Oxford University Press, USA",
+            "avg-rating": 4.13,
+            "num-pages": 218,
+            "publication-year": 1899
+        },
+        {
+            "name": "Gaban",
+            "author": "Munshi Premchand",
+            "isbn13": 9788122311969,
+            "publisher": "Cedar Books",
+            "avg-rating": 4.3,
+            "num-pages": 272,
+            "publication-year": 1931
+        },
+        {
+            "name": "\u0935\u0930\u0926\u093e\u0928",
+            "author": "Munshi Premchand",
+            "isbn13": 9788181332998,
+            "publisher": "Manoj Publications",
+            "avg-rating": 3.78,
+            "num-pages": 128,
+            "publication-year": 1899
+        },
+        {
+            "name": "Arcanum Unbounded: The Cosmere Collection",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765391162,
+            "publisher": "Tor Books",
+            "avg-rating": 4.5,
+            "num-pages": 672,
+            "publication-year": 2016
+        },
+        {
+            "name": "Gone with the Wind",
+            "author": "Margaret Mitchell",
+            "isbn13": 9780446675536,
+            "publisher": "Warner Books",
+            "avg-rating": 4.3,
+            "num-pages": 1037,
+            "publication-year": 1936
+        },
+        {
+            "name": "Hard Times",
+            "author": "Charles Dickens",
+            "isbn13": 9780321107213,
+            "publisher": "Pearson Longman",
+            "avg-rating": 3.54,
+            "num-pages": 353,
+            "publication-year": 1854
+        },
+        {
+            "name": "Har ry Potter and the Philosopher's Stone (Harry Potter, #1)",
+            "author": "J.K. Rowling",
+            "isbn13": 9781408855652,
+            "publisher": "Bloomsbury",
+            "avg-rating": 4.47,
+            "num-pages": 332,
+            "publication-year": 1997
+        },
+        {
+            "name": "A \u200bSky Beyond the Storm (An Ember in the Ashes, #4)",
+            "author": "Sabaa Tahir",
+            "isbn13": 9780008288815,
+            "publisher": "Razorbill",
+            "avg-rating": 4.36,
+            "num-pages": 516,
+            "publication-year": 2020
+        },
+        {
+            "name": "Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",
+            "author": "Douglas Adams",
+            "isbn13": 9780345379337,
+            "publisher": "Del Rey",
+            "avg-rating": 3.95,
+            "num-pages": 288,
+            "publication-year": 1992
+        },
+        {
+            "name": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy, #3)",
+            "author": "Douglas Adams",
+            "isbn13": 9780345418906,
+            "publisher": "Del Rey",
+            "avg-rating": 4.18,
+            "num-pages": 224,
+            "publication-year": 1982
+        },
+        {
+            "name": "A Reaper at the Gates (An Ember in the Ashes, #3)",
+            "author": "Sabaa Tahir",
+            "isbn13": 9780448494500,
+            "publisher": "Razorbill",
+            "avg-rating": 4.21,
+            "num-pages": 458,
+            "publication-year": 2018
+        },
+        {
+            "name": "The Young Elites (The Young Elites, #1)",
+            "author": "Marie Lu",
+            "isbn13": 9780399167836,
+            "publisher": "G.P. Putnam\u2019s Sons Books for Young Readers",
+            "avg-rating": 3.87,
+            "num-pages": 355,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Burning White (Lightbringer, #5)",
+            "author": "Brent Weeks",
+            "isbn13": 9780316251303,
+            "publisher": "Orbit",
+            "avg-rating": 4.28,
+            "num-pages": 992,
+            "publication-year": 2019
+        },
+        {
+            "name": "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+            "author": "Patrick Rothfuss",
+            "isbn13": 9780756404734,
+            "publisher": "DAW Books",
+            "avg-rating": 4.53,
+            "num-pages": 994,
+            "publication-year": 2011
+        },
+        {
+            "name": "The Wicked King (The Folk of the Air, #2)",
+            "author": "Holly Black",
+            "isbn13": 9780316310338,
+            "publisher": "Little, Brown Books for Young Readers",
+            "avg-rating": 4.33,
+            "num-pages": 336,
+            "publication-year": 2019
+        },
+        {
+            "name": "The Well of Ascension (Mistborn, #2)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765316882,
+            "publisher": "Tor Books",
+            "avg-rating": 4.35,
+            "num-pages": 590,
+            "publication-year": 2007
+        },
+        {
+            "name": "The Universe: A Biography",
+            "author": "John Gribbin",
+            "isbn13": 9780141021478,
+            "publisher": "Penguin Books",
+            "avg-rating": 3.89,
+            "num-pages": 242,
+            "publication-year": 2007
+        },
+        {
+            "name": "The Two Towers (The Lord of the Rings, #2)",
+            "author": "J.R.R. Tolkien",
+            "isbn13": 9780618346264,
+            "publisher": "Houghton Mifflin",
+            "avg-rating": 4.45,
+            "num-pages": 322,
+            "publication-year": 1954
+        },
+        {
+            "name": "The Titan's Curse (Percy Jackson and the Olympians, #3)",
+            "author": "Rick Riordan",
+            "isbn13": 9780141382890,
+            "publisher": "Puffin Books",
+            "avg-rating": 4.34,
+            "num-pages": 320,
+            "publication-year": 2007
+        },
+        {
+            "name": "The Throne of Fire (Kane Chronicles, #2)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423142010,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.16,
+            "num-pages": 452,
+            "publication-year": 2011
+        },
+        {
+            "name": "A Tale of Two Cities",
+            "author": "Charles Dickens",
+            "isbn13": 9780141439600,
+            "publisher": "Penguin Books",
+            "avg-rating": 3.86,
+            "num-pages": 489,
+            "publication-year": 1859
+        },
+        {
+            "name": "Surely You're Joking, Mr. Feynman!",
+            "author": "Richard P. Feynman",
+            "isbn13": 9780099173311,
+            "publisher": "Vintage",
+            "avg-rating": 4.24,
+            "num-pages": 350,
+            "publication-year": 1985
+        },
+        {
+            "name": "Starsight (Skyward, #2)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9781473217904,
+            "publisher": "Orion Publishing Co",
+            "avg-rating": 4.42,
+            "num-pages": 461,
+            "publication-year": 2019
+        },
+        {
+            "name": "Skyward (Skyward, #1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9781473217850,
+            "publisher": "Gollancz",
+            "avg-rating": 4.5,
+            "num-pages": 513,
+            "publication-year": 2018
+        },
+        {
+            "name": "Six of Crows (Six of Crows, #1)",
+            "author": "Leigh Bardugo",
+            "isbn13": 9781627792127,
+            "publisher": "Henry Holt & Company",
+            "avg-rating": 4.47,
+            "num-pages": 465,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+            "author": "Rick Riordan",
+            "isbn13": 9780786856862,
+            "publisher": "Hyperion Books",
+            "avg-rating": 4.24,
+            "num-pages": 279,
+            "publication-year": 2006
+        },
+        {
+            "name": "The Red Pyramid (The Kane Chronicles, #1)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423113386,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.08,
+            "num-pages": 528,
+            "publication-year": 2010
+        },
+        {
+            "name": "One, Two, Three...Infinity: Facts and Speculations of Science",
+            "author": "George Gamow",
+            "isbn13": 9780486256641,
+            "publisher": "Dover Publications",
+            "avg-rating": 4.2,
+            "num-pages": 384,
+            "publication-year": 1947
+        },
+        {
+            "name": "The Queen of Nothing (The Folk of the Air, #3)",
+            "author": "Holly Black",
+            "isbn13": 9780316310406,
+            "publisher": "Little, Brown",
+            "avg-rating": 4.35,
+            "num-pages": 300,
+            "publication-year": 2019
+        },
+        {
+            "name": "Northanger Abbey",
+            "author": "Jane Austen",
+            "isbn13": 9781593082642,
+            "publisher": "Barnes & Noble Classics",
+            "avg-rating": 3.84,
+            "num-pages": 260,
+            "publication-year": 1817
+        },
+        {
+            "name": "Persuasion",
+            "author": "Jane Austen",
+            "isbn13": 9780192802637,
+            "publisher": "Oxford University Press",
+            "avg-rating": 4.14,
+            "num-pages": 249,
+            "publication-year": 1817
+        },
+        {
+            "name": "The Final Empire (Mistborn, #1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765311788,
+            "publisher": "Tor Books",
+            "avg-rating": 4.44,
+            "num-pages": 541,
+            "publication-year": 2006
+        },
+        {
+            "name": "The Last Olympian (Percy Jackson and the Olympians, #5)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423101475,
+            "publisher": "Disney \u25cf Hyperion Books",
+            "avg-rating": 4.5,
+            "num-pages": 381,
+            "publication-year": 2009
+        },
+        {
+            "name": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+            "author": "Patrick Rothfuss",
+            "isbn13": 9780756404079,
+            "publisher": "Penguin Group DAW",
+            "avg-rating": 4.51,
+            "num-pages": 662,
+            "publication-year": 2007
+        },
+        {
+            "name": "The Mill on the Floss",
+            "author": "George Eliot",
+            "isbn13": 9788175993839,
+            "publisher": "Prakash Book Depot",
+            "avg-rating": 3.81,
+            "num-pages": 560,
+            "publication-year": 1860
+        },
+        {
+            "name": "Jane Eyre",
+            "author": "Charlotte Bront\u00eb",
+            "isbn13": 9780142437209,
+            "publisher": "Penguin",
+            "avg-rating": 4.13,
+            "num-pages": 532,
+            "publication-year": 1847
+        },
+        {
+            "name": "The Hero of Ages (Mistborn, #3)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765316899,
+            "publisher": "Tor Books",
+            "avg-rating": 4.48,
+            "num-pages": 572,
+            "publication-year": 2008
+        },
+        {
+            "name": "The House of Hades (The Heroes of Olympus, #4)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423146728,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.52,
+            "num-pages": 608,
+            "publication-year": 2013
+        },
+        {
+            "name": "A Feast for Crows (A Song of Ice and Fire, #4)",
+            "author": "George R.R. Martin",
+            "isbn13": 9780553582024,
+            "publisher": "Bantam Books",
+            "avg-rating": 4.14,
+            "num-pages": 1061,
+            "publication-year": 2005
+        },
+        {
+            "name": "The Elegant Universe",
+            "author": "Brian Greene",
+            "isbn13": 9780099289920,
+            "publisher": "Vintage",
+            "avg-rating": 4.07,
+            "num-pages": 464,
+            "publication-year": 1999
+        },
+        {
+            "name": "Emma",
+            "author": "Jane Austen",
+            "isbn13": 9780141439587,
+            "publisher": "Penguin Books",
+            "avg-rating": 4.02,
+            "num-pages": 474,
+            "publication-year": 1815
+        },
+        {
+            "name": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+            "author": "J.R.R. Tolkien",
+            "isbn13": 9780618346257,
+            "publisher": "Houghton Mifflin Harcourt",
+            "avg-rating": 4.37,
+            "num-pages": 398,
+            "publication-year": 1954
+        },
+        {
+            "name": "A Brief History Of Time: From the Big Bang To Black Holes",
+            "author": "Stephen Hawking",
+            "isbn13": 9780553175219,
+            "publisher": "Bantam",
+            "avg-rating": 4.19,
+            "num-pages": 220,
+            "publication-year": 1988
+        },
+        {
+            "name": "Cosmos",
+            "author": "Carl Sagan",
+            "isbn13": 9780375508325,
+            "publisher": "Random House",
+            "avg-rating": 4.37,
+            "num-pages": 365,
+            "publication-year": 1980
+        },
+        {
+            "name": "Brief Answers to the Big Questions",
+            "author": "Stephen Hawking",
+            "isbn13": 9781984819192,
+            "publisher": "Bantam",
+            "avg-rating": 4.3,
+            "num-pages": 256,
+            "publication-year": 2018
+        },
+        {
+            "name": "City of Ashes (The Mortal Instruments, #2)",
+            "author": "Cassandra Clare",
+            "isbn13": 9781416914297,
+            "publisher": "Margaret K. McElderry Books",
+            "avg-rating": 4.13,
+            "num-pages": 453,
+            "publication-year": 2008
+        },
+        {
+            "name": "The Blood of Olympus (The Heroes of Olympus, #5)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423146735,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.4,
+            "num-pages": 528,
+            "publication-year": 2014
+        },
+        {
+            "name": "Alice's Adventures in Wonderland / Through the Looking-Glass",
+            "author": "Lewis Carroll",
+            "isbn13": 9780451527745,
+            "publisher": "Penguin Group (USA)",
+            "avg-rating": 4.06,
+            "num-pages": 239,
+            "publication-year": 1871
+        },
+        {
+            "name": "A Clash of Kings  (A Song of Ice and Fire, #2)",
+            "author": "George R.R. Martin",
+            "isbn13": 9780553381696,
+            "publisher": "Bantam",
+            "avg-rating": 4.4,
+            "num-pages": 969,
+            "publication-year": 1998
+        },
+        {
+            "name": "The Tyrant\u2019s Tomb (The Trials of Apollo, #4)",
+            "author": "Rick Riordan",
+            "isbn13": 9781368001441,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.33,
+            "num-pages": 439,
+            "publication-year": 2019
+        },
+        {
+            "name": "Mansfield Park",
+            "author": "Jane Austen",
+            "isbn13": 9780141439808,
+            "publisher": "Penguin Books",
+            "avg-rating": 3.86,
+            "num-pages": 488,
+            "publication-year": 1814
+        },
+        {
+            "name": "Great Expectations",
+            "author": "Charles Dickens",
+            "isbn13": 9780192833594,
+            "publisher": "Oxford University Press",
+            "avg-rating": 3.78,
+            "num-pages": 544,
+            "publication-year": 1860
+        },
+        {
+            "name": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+            "author": "J.K. Rowling",
+            "isbn13": 9780439655484,
+            "publisher": "Scholastic Inc.",
+            "avg-rating": 4.57,
+            "num-pages": 435,
+            "publication-year": 1999
+        },
+        {
+            "name": "A Study in Scarlet (Sherlock Holmes, #1)",
+            "author": "Arthur Conan Doyle",
+            "isbn13": 9781420925531,
+            "publisher": "Digireads.com",
+            "avg-rating": 4.14,
+            "num-pages": 123,
+            "publication-year": 1887
+        },
+        {
+            "name": "Fire Falling (Air Awakens, #2)",
+            "author": "Elise Kova",
+            "isbn13": 9781619849525,
+            "publisher": "Silver Wing Press",
+            "avg-rating": 4.17,
+            "num-pages": 378,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Blood Mirror (Lightbringer, #4)",
+            "author": "Brent Weeks",
+            "isbn13": 9780316251334,
+            "publisher": "Orbit",
+            "avg-rating": 4.34,
+            "num-pages": 704,
+            "publication-year": 2015
+        },
+        {
+            "name": "In Search of the Edge of Time: Black Holes, White Holes, Wormholes",
+            "author": "John Gribbin",
+            "isbn13": 9780140248142,
+            "publisher": "Penguin Books",
+            "avg-rating": 3.93,
+            "num-pages": 288,
+            "publication-year": 1992
+        },
+        {
+            "name": "The Birth of Time: How Astronomers Measure the Age of the Universe",
+            "author": "John Gribbin",
+            "isbn13": 9780300083460,
+            "publisher": "Yale University Press",
+            "avg-rating": 3.88,
+            "num-pages": 237,
+            "publication-year": 1999
+        },
+        {
+            "name": "Einstein's Masterwork: 1915 and the General Theory of Relativity",
+            "author": "John Gribbin",
+            "isbn13": 9781681772127,
+            "publisher": "Pegasus Books",
+            "avg-rating": 4.02,
+            "num-pages": 240,
+            "publication-year": 2015
+        },
+        {
+            "name": "In Search of the Big Bang",
+            "author": "John Gribbin",
+            "isbn13": 9780552131469,
+            "publisher": "Corgi",
+            "avg-rating": 3.96,
+            "num-pages": 432,
+            "publication-year": 1986
+        },
+        {
+            "name": "13.8: The Quest to Find the True Age of the Universe and the Theory of Everything",
+            "author": "John Gribbin",
+            "isbn13": 9780300218275,
+            "publisher": "Yale University Press",
+            "avg-rating": 4.07,
+            "num-pages": 256,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Scientists: A History of Science Told Through the Lives of Its Greatest Inventors",
+            "author": "John Gribbin",
+            "isbn13": 9780812967883,
+            "publisher": "Random House Trade Paperbacks",
+            "avg-rating": 4.09,
+            "num-pages": 672,
+            "publication-year": 2002
+        },
+        {
+            "name": "Deep Simplicity: Bringing Order to Chaos and Complexity",
+            "author": "John Gribbin",
+            "isbn13": 9781400062560,
+            "publisher": "Random House",
+            "avg-rating": 3.94,
+            "num-pages": 279,
+            "publication-year": 2004
+        },
+        {
+            "name": "In Search of the Multiverse",
+            "author": "John Gribbin",
+            "isbn13": 9781846141133,
+            "publisher": "Allen Lane",
+            "avg-rating": 4.09,
+            "num-pages": 250,
+            "publication-year": 2009
+        },
+        {
+            "name": "Water's Wrath (Air Awakens, #4)",
+            "author": "Elise Kova",
+            "isbn13": 9781619844254,
+            "publisher": "Silver Wing Press",
+            "avg-rating": 4.11,
+            "num-pages": 378,
+            "publication-year": 2016
+        },
+        {
+            "name": "Earth's End (Air Awakens, #3)",
+            "author": "Elise Kova",
+            "isbn13": 9781619844223,
+            "publisher": "Silver Wing Press",
+            "avg-rating": 4.14,
+            "num-pages": 350,
+            "publication-year": 2016
+        },
+        {
+            "name": "Subtle Is the Lord: The Science and the Life of Albert Einstein",
+            "author": "Abraham Pais",
+            "isbn13": 9780192806727,
+            "publisher": "OUP UK",
+            "avg-rating": 4.31,
+            "num-pages": 576,
+            "publication-year": 1982
+        },
+        {
+            "name": "Shadow's Edge (Night Angel, #2)",
+            "author": "Brent Weeks",
+            "isbn13": 9780316033657,
+            "publisher": "Orbit",
+            "avg-rating": 4.23,
+            "num-pages": 636,
+            "publication-year": 2008
+        },
+        {
+            "name": "Beyond the Shadows (Night Angel, #3)",
+            "author": "Brent Weeks",
+            "isbn13": 9780316033664,
+            "publisher": "Orbit",
+            "avg-rating": 4.24,
+            "num-pages": 689,
+            "publication-year": 2008
+        },
+        {
+            "name": "The Way of Shadows (Night Angel, #1)",
+            "author": "Brent Weeks",
+            "isbn13": 9780316033671,
+            "publisher": "Orbit",
+            "avg-rating": 4.13,
+            "num-pages": 645,
+            "publication-year": 2008
+        },
+        {
+            "name": "Aurora's End (The Aurora Cycle, #3)",
+            "author": "Amie Kaufman",
+            "isbn13": 9781524720889,
+            "publisher": "Knopf Books For Young Readers",
+            "avg-rating": 4.38,
+            "num-pages": 512,
+            "publication-year": 2021
+        },
+        {
+            "name": "Aurora Burning (The Aurora Cycle, #2)",
+            "author": "Amie Kaufman",
+            "isbn13": 9781524720926,
+            "publisher": "Knopf Books For Young Readers",
+            "avg-rating": 4.32,
+            "num-pages": 495,
+            "publication-year": 2020
+        },
+        {
+            "name": "Aurora Rising (The Aurora Cycle, #1)",
+            "author": "Amie Kaufman",
+            "isbn13": 9781524720964,
+            "publisher": "Knopf Books for Young Readers",
+            "avg-rating": 4.13,
+            "num-pages": 473,
+            "publication-year": 2019
+        },
+        {
+            "name": "The Last Battle (Chronicles of Narnia, #7)",
+            "author": "C.S. Lewis",
+            "isbn13": 9780007202324,
+            "publisher": "HarperCollins Publishers",
+            "avg-rating": 4.0,
+            "num-pages": 288,
+            "publication-year": 1956
+        },
+        {
+            "name": "The Magician's Nephew (Chronicles of Narnia, #6)",
+            "author": "C.S. Lewis",
+            "isbn13": 9780060764906,
+            "publisher": "HarperCollins Publishers",
+            "avg-rating": 4.04,
+            "num-pages": 221,
+            "publication-year": 1955
+        },
+        {
+            "name": "The Horse and His Boy (Chronicles of Narnia, #5)",
+            "author": "C.S. Lewis",
+            "isbn13": 9780439861366,
+            "publisher": "Scholastic Inc",
+            "avg-rating": 3.91,
+            "num-pages": 224,
+            "publication-year": 1954
+        },
+        {
+            "name": "The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",
+            "author": "C.S. Lewis",
+            "isbn13": 9780061125270,
+            "publisher": "HarperCollins",
+            "avg-rating": 4.08,
+            "num-pages": 248,
+            "publication-year": 1952
+        },
+        {
+            "name": "Prince Caspian (Chronicles of Narnia, #2)",
+            "author": "C.S. Lewis",
+            "isbn13": 9780007202300,
+            "publisher": "HarperCollins Publishers",
+            "avg-rating": 3.97,
+            "num-pages": 240,
+            "publication-year": 1951
+        },
+        {
+            "name": "War Storm (Red Queen, #4)",
+            "author": "Victoria Aveyard",
+            "isbn13": 9780062422996,
+            "publisher": "HarperTeen",
+            "avg-rating": 3.87,
+            "num-pages": 662,
+            "publication-year": 2018
+        },
+        {
+            "name": "King's Cage (Red Queen, #3)",
+            "author": "Victoria Aveyard",
+            "isbn13": 9780062310712,
+            "publisher": "HarperTeen",
+            "avg-rating": 3.96,
+            "num-pages": 528,
+            "publication-year": 2017
+        },
+        {
+            "name": "Glass Sword (Red Queen, #2)",
+            "author": "Victoria Aveyard",
+            "isbn13": 9780062310668,
+            "publisher": "HarperTeen",
+            "avg-rating": 3.85,
+            "num-pages": 444,
+            "publication-year": 2016
+        },
+        {
+            "name": "Red Queen (Red Queen, #1)",
+            "author": "Victoria Aveyard",
+            "isbn13": 9780062310637,
+            "publisher": "HarperTeen",
+            "avg-rating": 4.03,
+            "num-pages": 383,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Blinding Knife (Lightbringer, #2)",
+            "author": "Brent Weeks",
+            "isbn13": 9780316079914,
+            "publisher": "Orbit",
+            "avg-rating": 4.38,
+            "num-pages": 671,
+            "publication-year": 2012
+        },
+        {
+            "name": "The Black Prism (Lightbringer, #1)",
+            "author": "Brent Weeks",
+            "isbn13": 9780316075558,
+            "publisher": "Orbit",
+            "avg-rating": 4.21,
+            "num-pages": 629,
+            "publication-year": 2010
+        },
+        {
+            "name": "The Providence of Fire (Chronicle of the Unhewn Throne, #2)",
+            "author": "Brian Staveley",
+            "isbn13": 9780765336415,
+            "publisher": "Tor Books",
+            "avg-rating": 4.13,
+            "num-pages": 608,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Emperor's Blades (Chronicle of the Unhewn Throne, #1)",
+            "author": "Brian Staveley",
+            "isbn13": 9780765336408,
+            "publisher": "Tor Books",
+            "avg-rating": 4.05,
+            "num-pages": 480,
+            "publication-year": 2014
+        },
+        {
+            "name": "Air Awakens (Air Awakens, #1)",
+            "author": "Elise Kova",
+            "isbn13": 9781932549935,
+            "publisher": "Silver Wing Press",
+            "avg-rating": 4.01,
+            "num-pages": 342,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Bronze Key (Magisterium,  #3)",
+            "author": "Holly Black",
+            "isbn13": 9780545522311,
+            "publisher": "Scholastic",
+            "avg-rating": 4.1,
+            "num-pages": 249,
+            "publication-year": 2016
+        },
+        {
+            "name": "The Gathering Storm (The Wheel of Time, #12)",
+            "author": "Robert Jordan",
+            "isbn13": 9780765302304,
+            "publisher": "Tor Books",
+            "avg-rating": 4.36,
+            "num-pages": 783,
+            "publication-year": 2009
+        },
+        {
+            "name": "The One (The Selection, #3)",
+            "author": "Kiera Cass",
+            "isbn13": 9780062059994,
+            "publisher": "HarperTeen",
+            "avg-rating": 4.18,
+            "num-pages": 323,
+            "publication-year": 2014
+        },
+        {
+            "name": "Red Rising (Red Rising Saga #1)",
+            "author": "Pierce Brown",
+            "isbn13": 9780345539786,
+            "publisher": "Del Rey",
+            "avg-rating": 4.23,
+            "num-pages": 382,
+            "publication-year": 2014
+        },
+        {
+            "name": "Words of Radiance (The Stormlight Archive, #2)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765326362,
+            "publisher": "Tor Books",
+            "avg-rating": 4.73,
+            "num-pages": 1087,
+            "publication-year": 2014
+        },
+        {
+            "name": "Foundation (Foundation, #1)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553803716,
+            "publisher": "Bantam",
+            "avg-rating": 4.17,
+            "num-pages": 244,
+            "publication-year": 1951
+        },
+        {
+            "name": "The Way of Kings (The Stormlight Archive, #1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765326355,
+            "publisher": "Tor Books",
+            "avg-rating": 4.6,
+            "num-pages": 1007,
+            "publication-year": 2010
+        },
+        {
+            "name": "Peace Talks (The Dresden Files, #16)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451464415,
+            "publisher": "Ace",
+            "avg-rating": 4.21,
+            "num-pages": 340,
+            "publication-year": 2020
+        },
+        {
+            "name": "Skin Game (The Dresden Files, #15)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451464392,
+            "publisher": "Roc",
+            "avg-rating": 4.56,
+            "num-pages": 454,
+            "publication-year": 2014
+        },
+        {
+            "name": "Cold Days (The Dresden Files, #14)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451464408,
+            "publisher": "Penguin Group (USA)",
+            "avg-rating": 4.45,
+            "num-pages": 515,
+            "publication-year": 2012
+        },
+        {
+            "name": "Changes (The Dresden Files, #12)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451463173,
+            "publisher": "Roc",
+            "avg-rating": 4.49,
+            "num-pages": 438,
+            "publication-year": 2010
+        },
+        {
+            "name": "Turn Coat (The Dresden Files, #11)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451462565,
+            "publisher": "Roc",
+            "avg-rating": 4.4,
+            "num-pages": 418,
+            "publication-year": 2009
+        },
+        {
+            "name": "Small Favor (The Dresden Files, #10)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451461896,
+            "publisher": "Roc",
+            "avg-rating": 4.44,
+            "num-pages": 420,
+            "publication-year": 2008
+        },
+        {
+            "name": "White Night (The Dresden Files, #9)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451461407,
+            "publisher": "Roc",
+            "avg-rating": 4.36,
+            "num-pages": 407,
+            "publication-year": 2007
+        },
+        {
+            "name": "Proven Guilty (The Dresden Files, #8)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451461032,
+            "publisher": "Roc",
+            "avg-rating": 4.37,
+            "num-pages": 551,
+            "publication-year": 2006
+        },
+        {
+            "name": "Dead Beat (The Dresden Files, #7)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451460912,
+            "publisher": "Roc",
+            "avg-rating": 4.38,
+            "num-pages": 517,
+            "publication-year": 2005
+        },
+        {
+            "name": "Blood Rites (The Dresden Files, #6)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451459879,
+            "publisher": "Roc",
+            "avg-rating": 4.27,
+            "num-pages": 435,
+            "publication-year": 2004
+        },
+        {
+            "name": "Death Masks (The Dresden Files, #5)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451459404,
+            "publisher": "Roc",
+            "avg-rating": 4.27,
+            "num-pages": 432,
+            "publication-year": 2003
+        },
+        {
+            "name": "Grave Peril (The Dresden Files, #3)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451458445,
+            "publisher": "Roc",
+            "avg-rating": 4.13,
+            "num-pages": 378,
+            "publication-year": 2001
+        },
+        {
+            "name": "The Time of Contempt (The Witcher, #2)",
+            "author": "Andrzej Sapkowski",
+            "isbn13": 9780316219136,
+            "publisher": "Orbit",
+            "avg-rating": 4.18,
+            "num-pages": 331,
+            "publication-year": 1995
+        },
+        {
+            "name": "The Hobbit, Part One",
+            "author": "J.R.R. Tolkien",
+            "isbn13": 9780007926664,
+            "publisher": "HarperCollins Children's Books",
+            "avg-rating": 4.3,
+            "num-pages": 230,
+            "publication-year": 1937
+        },
+        {
+            "name": "I, Robot (Robot, #0.1)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553803709,
+            "publisher": "Bantam Books",
+            "avg-rating": 4.21,
+            "num-pages": 224,
+            "publication-year": 1950
+        },
+        {
+            "name": "A Christmas Carol",
+            "author": "Charles Dickens",
+            "isbn13": 9781561797462,
+            "publisher": "Bethany House Publishers ",
+            "avg-rating": 4.06,
+            "num-pages": 104,
+            "publication-year": 1843
+        },
+        {
+            "name": "Little Women",
+            "author": "Louisa May Alcott",
+            "isbn13": 9780451529305,
+            "publisher": "Signet Classics",
+            "avg-rating": 4.11,
+            "num-pages": 449,
+            "publication-year": 1869
+        },
+        {
+            "name": "Animal Farm",
+            "author": "George Orwell",
+            "isbn13": 9780451526342,
+            "publisher": "Signet Classics",
+            "avg-rating": 3.97,
+            "num-pages": 141,
+            "publication-year": 1945
+        },
+        {
+            "name": "Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100",
+            "author": "Michio Kaku",
+            "isbn13": 9780385530804,
+            "publisher": "Doubleday",
+            "avg-rating": 4.0,
+            "num-pages": 416,
+            "publication-year": 2011
+        },
+        {
+            "name": "A Briefer History of Time",
+            "author": "Stephen Hawking",
+            "isbn13": 9780553804362,
+            "publisher": "Bantam",
+            "avg-rating": 4.23,
+            "num-pages": 176,
+            "publication-year": 1988
+        },
+        {
+            "name": "The Universe in a Nutshell",
+            "author": "Stephen Hawking",
+            "isbn13": 9780553802023,
+            "publisher": "Bantam",
+            "avg-rating": 4.17,
+            "num-pages": 216,
+            "publication-year": 2001
+        },
+        {
+            "name": "Parallel Worlds: A Journey through Creation, Higher Dimensions, and the Future of the Cosmos",
+            "author": "Michio Kaku",
+            "isbn13": 9781400033720,
+            "publisher": "Anchor",
+            "avg-rating": 4.2,
+            "num-pages": 361,
+            "publication-year": 2004
+        },
+        {
+            "name": "Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension",
+            "author": "Michio Kaku",
+            "isbn13": 9780192861894,
+            "publisher": "Oxford Univ Pr (T)",
+            "avg-rating": 4.13,
+            "num-pages": 359,
+            "publication-year": 1994
+        },
+        {
+            "name": "Schr\u00f6dinger's Kittens and the Search for Reality: Solving the Quantum Mysteries",
+            "author": "John Gribbin",
+            "isbn13": 9780316328197,
+            "publisher": "Back Bay Books",
+            "avg-rating": 4.06,
+            "num-pages": 272,
+            "publication-year": 1984
+        },
+        {
+            "name": "The Search for Superstrings, Symmetry, and the Theory of Everything",
+            "author": "John Gribbin",
+            "isbn13": 9780316326148,
+            "publisher": "Back Bay Books",
+            "avg-rating": 3.86,
+            "num-pages": 224,
+            "publication-year": 1998
+        },
+        {
+            "name": "A Short History of Nearly Everything",
+            "author": "Bill Bryson",
+            "isbn13": 9780767908184,
+            "publisher": "Crown Publishing Group (NY)",
+            "avg-rating": 4.18,
+            "num-pages": 544,
+            "publication-year": 2003
+        },
+        {
+            "name": "The Beat of a Different Drum: The Life and Science of Richard Feynman",
+            "author": "Jagdish Mehra",
+            "isbn13": 9780198539483,
+            "publisher": "Oxford University Press, USA",
+            "avg-rating": 4.16,
+            "num-pages": 662,
+            "publication-year": 1994
+        },
+        {
+            "name": "Seven Brief Lessons on Physics",
+            "author": "Carlo Rovelli",
+            "isbn13": 9780399184413,
+            "publisher": "Riverhead Books",
+            "avg-rating": 3.96,
+            "num-pages": 81,
+            "publication-year": 2014
+        },
+        {
+            "name": "Astrophysics for People in a Hurry",
+            "author": "Neil deGrasse Tyson",
+            "isbn13": 9780393609394,
+            "publisher": "W. W. Norton  Company",
+            "avg-rating": 4.07,
+            "num-pages": 208,
+            "publication-year": 2017
+        },
+        {
+            "name": "Champion (Legend, #3)",
+            "author": "Marie Lu",
+            "isbn13": 9780399256776,
+            "publisher": "Putnam Juvenile",
+            "avg-rating": 4.32,
+            "num-pages": 369,
+            "publication-year": 2013
+        },
+        {
+            "name": "Scarlet (The Lunar Chronicles, #2)",
+            "author": "Marissa Meyer",
+            "isbn13": 9780312642969,
+            "publisher": "Feiwel & Friends",
+            "avg-rating": 4.25,
+            "num-pages": 454,
+            "publication-year": 2013
+        },
+        {
+            "name": "Archenemies (Renegades, #2)",
+            "author": "Marissa Meyer",
+            "isbn13": 9781250311443,
+            "publisher": "Feiwel & Friends",
+            "avg-rating": 4.3,
+            "num-pages": 560,
+            "publication-year": 2018
+        },
+        {
+            "name": "Prodigy (Legend, #2)",
+            "author": "Marie Lu",
+            "isbn13": 9780399256769,
+            "publisher": "Putnam Juvenile",
+            "avg-rating": 4.24,
+            "num-pages": 371,
+            "publication-year": 2013
+        },
+        {
+            "name": "From Blood and Ash (Blood And Ash, #1)",
+            "author": "Jennifer L. Armentrout",
+            "isbn13": 9781952457005,
+            "publisher": "Blue Box Press",
+            "avg-rating": 4.3,
+            "num-pages": 613,
+            "publication-year": 2020
+        },
+        {
+            "name": "Imagine Me (Shatter Me, #6)",
+            "author": "Tahereh Mafi",
+            "isbn13": 9780062676443,
+            "publisher": "HarperCollins",
+            "avg-rating": 3.8,
+            "num-pages": 480,
+            "publication-year": 2020
+        },
+        {
+            "name": "Defy Me (Shatter Me, #5)",
+            "author": "Tahereh Mafi",
+            "isbn13": 9780062676399,
+            "publisher": "HarperTeen",
+            "avg-rating": 4.17,
+            "num-pages": 357,
+            "publication-year": 2019
+        },
+        {
+            "name": "Restore Me (Shatter Me, #4)",
+            "author": "Tahereh Mafi",
+            "isbn13": 9780062676368,
+            "publisher": "HarperCollins",
+            "avg-rating": 4.15,
+            "num-pages": 435,
+            "publication-year": 2018
+        },
+        {
+            "name": "Destroy Me (Shatter Me, #1.5)",
+            "author": "Tahereh Mafi",
+            "isbn13": 9780062208194,
+            "publisher": "Harper",
+            "avg-rating": 4.17,
+            "num-pages": 111,
+            "publication-year": 2012
+        },
+        {
+            "name": "Unravel Me (Shatter Me, #2)",
+            "author": "Tahereh Mafi",
+            "isbn13": 9780062085535,
+            "publisher": "HarperCollins ",
+            "avg-rating": 4.18,
+            "num-pages": 461,
+            "publication-year": 2013
+        },
+        {
+            "name": "The Midnight Star (The Young Elites, #3)",
+            "author": "Marie Lu",
+            "isbn13": 9780399167850,
+            "publisher": "G.P. Putnam's Sons Books for Young Readers",
+            "avg-rating": 4.12,
+            "num-pages": 316,
+            "publication-year": 2016
+        },
+        {
+            "name": "The Rose Society (The Young Elites, #2)",
+            "author": "Marie Lu",
+            "isbn13": 9780399167843,
+            "publisher": "G.P. Putnam's Sons Books for Young Readers",
+            "avg-rating": 4.05,
+            "num-pages": 398,
+            "publication-year": 2015
+        },
+        {
+            "name": "Supernova (Renegades, #3)",
+            "author": "Marissa Meyer",
+            "isbn13": 9781250078384,
+            "publisher": "Feiwel & Friends",
+            "avg-rating": 4.42,
+            "num-pages": 552,
+            "publication-year": 2019
+        },
+        {
+            "name": "Renegades (Renegades, #1)",
+            "author": "Marissa Meyer",
+            "isbn13": 9781250044662,
+            "publisher": "Feiwel & Friends",
+            "avg-rating": 4.14,
+            "num-pages": 556,
+            "publication-year": 2017
+        },
+        {
+            "name": "The Night Circus",
+            "author": "Erin Morgenstern",
+            "isbn13": 9780385534635,
+            "publisher": "Doubleday",
+            "avg-rating": 4.03,
+            "num-pages": 387,
+            "publication-year": 2011
+        },
+        {
+            "name": "Winter (The Lunar Chronicles, #4)",
+            "author": "Marissa Meyer",
+            "isbn13": 9780312642983,
+            "publisher": "Feiwel & Friends",
+            "avg-rating": 4.41,
+            "num-pages": 827,
+            "publication-year": 2015
+        },
+        {
+            "name": "To Sleep in a Sea of Stars",
+            "author": "Christopher Paolini",
+            "isbn13": 9781250762849,
+            "publisher": "Tor Books",
+            "avg-rating": 3.79,
+            "num-pages": 878,
+            "publication-year": 2020
+        },
+        {
+            "name": "Cress (The Lunar Chronicles, #3)",
+            "author": "Marissa Meyer",
+            "isbn13": 9780312642976,
+            "publisher": "Feiwel & Friends",
+            "avg-rating": 4.4,
+            "num-pages": 552,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Crippled God (Malazan Book of the Fallen, #10)",
+            "author": "Steven Erikson",
+            "isbn13": 9780593046357,
+            "publisher": "Bantam Press",
+            "avg-rating": 4.49,
+            "num-pages": 921,
+            "publication-year": 2011
+        },
+        {
+            "name": "Dust of Dreams (Malazan Book of the Fallen, #9)",
+            "author": "Steven Erikson",
+            "isbn13": 9780765316554,
+            "publisher": "Tom Doherty Associates",
+            "avg-rating": 4.31,
+            "num-pages": 1280,
+            "publication-year": 2009
+        },
+        {
+            "name": "Toll the Hounds (Malazan Book of the Fallen, #8)",
+            "author": "Steven Erikson",
+            "isbn13": 9780765310088,
+            "publisher": "Tor Books",
+            "avg-rating": 4.36,
+            "num-pages": 1008,
+            "publication-year": 2008
+        },
+        {
+            "name": "Reaper's Gale (Malazan Book of the Fallen, #7)",
+            "author": "Steven Erikson",
+            "isbn13": 9780593046319,
+            "publisher": "Bantam Press",
+            "avg-rating": 4.38,
+            "num-pages": 928,
+            "publication-year": 2007
+        },
+        {
+            "name": "The Bonehunters (Malazan Book of the Fallen, #6)",
+            "author": "Steven Erikson",
+            "isbn13": 9780553813159,
+            "publisher": "Bantam",
+            "avg-rating": 4.46,
+            "num-pages": 1203,
+            "publication-year": 2006
+        },
+        {
+            "name": "Midnight Tides (Malazan Book of the Fallen, #5)",
+            "author": "Steven Erikson",
+            "isbn13": 9780553813142,
+            "publisher": "Bantam",
+            "avg-rating": 4.39,
+            "num-pages": 960,
+            "publication-year": 2004
+        },
+        {
+            "name": "House of Chains (Malazan Book of the Fallen, #4)",
+            "author": "Steven Erikson",
+            "isbn13": 9780765348814,
+            "publisher": "Tor Fantasy",
+            "avg-rating": 4.34,
+            "num-pages": 1015,
+            "publication-year": 2002
+        },
+        {
+            "name": "Memories of Ice (Malazan Book of the Fallen, #3)",
+            "author": "Steven Erikson",
+            "isbn13": 9780765348807,
+            "publisher": "Tor Fantasy",
+            "avg-rating": 4.43,
+            "num-pages": 925,
+            "publication-year": 2001
+        },
+        {
+            "name": "Deadhouse Gates (Malazan Book of the Fallen, #2)",
+            "author": "Steven Erikson",
+            "isbn13": 9780765310026,
+            "publisher": "Tor Books",
+            "avg-rating": 4.21,
+            "num-pages": 604,
+            "publication-year": 2000
+        },
+        {
+            "name": "Breach of Peace (Lawful Times, #1)",
+            "author": "Daniel B. Greene",
+            "isbn13": 9780578840789,
+            "publisher": NaN,
+            "avg-rating": 3.63,
+            "num-pages": 98,
+            "publication-year": 2021
+        },
+        {
+            "name": "Rule of Wolves (King of Scars, #2)",
+            "author": "Leigh Bardugo",
+            "isbn13": 9781510109186,
+            "publisher": "Orion Children's Books",
+            "avg-rating": 4.41,
+            "num-pages": 592,
+            "publication-year": 2021
+        },
+        {
+            "name": "Fire & Blood (A Targaryen History, #1)",
+            "author": "George R.R. Martin",
+            "isbn13": 9781524796280,
+            "publisher": "Bantam",
+            "avg-rating": 3.89,
+            "num-pages": 719,
+            "publication-year": 2018
+        },
+        {
+            "name": "Summer Knight (The Dresden Files, #4)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451458926,
+            "publisher": "Roc",
+            "avg-rating": 4.25,
+            "num-pages": 446,
+            "publication-year": 2002
+        },
+        {
+            "name": "Ninth House (Alex Stern, #1)",
+            "author": "Leigh Bardugo",
+            "isbn13": 9781250313072,
+            "publisher": "Flatiron Books",
+            "avg-rating": 4.04,
+            "num-pages": 459,
+            "publication-year": 2019
+        },
+        {
+            "name": "Last Argument of Kings (The First Law, #3)",
+            "author": "Joe Abercrombie",
+            "isbn13": 9780575077904,
+            "publisher": "Gollancz",
+            "avg-rating": 4.28,
+            "num-pages": 536,
+            "publication-year": 2008
+        },
+        {
+            "name": "The Blade Itself (The First Law, #1)",
+            "author": "Joe Abercrombie",
+            "isbn13": 9780575079793,
+            "publisher": "Gollancz",
+            "avg-rating": 4.17,
+            "num-pages": 515,
+            "publication-year": 2006
+        },
+        {
+            "name": "Before They Are Hanged (The First Law, #2)",
+            "author": "Joe Abercrombie",
+            "isbn13": 9780575077881,
+            "publisher": "Gollancz",
+            "avg-rating": 4.29,
+            "num-pages": 441,
+            "publication-year": 2007
+        },
+        {
+            "name": "House of Earth and Blood (Crescent City, #1)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781635574043,
+            "publisher": "Bloomsbury Publishing",
+            "avg-rating": 4.44,
+            "num-pages": 803,
+            "publication-year": 2020
+        },
+        {
+            "name": "Reaper Man (Discworld #11)",
+            "author": "Terry Pratchett",
+            "isbn13": 9780552134644,
+            "publisher": "Corgi Books",
+            "avg-rating": 4.24,
+            "num-pages": 287,
+            "publication-year": 1991
+        },
+        {
+            "name": "Demigods & Magicians: Percy and Annabeth Meet the Kanes",
+            "author": "Rick Riordan",
+            "isbn13": 9781484732786,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.33,
+            "num-pages": 224,
+            "publication-year": 2016
+        },
+        {
+            "name": "The Crown of Ptolemy (Percy Jackson & Kane Chronicles Crossover #3)",
+            "author": "Rick Riordan",
+            "isbn13": 9781484709870,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.37,
+            "num-pages": 63,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Staff of Serapis (Percy Jackson & Kane Chronicles Crossover #2)",
+            "author": "Rick Riordan",
+            "isbn13": 9781484721346,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.3,
+            "num-pages": 60,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Serpent's Shadow (The Kane Chronicles, #3)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423140573,
+            "publisher": "Hyperion Books",
+            "avg-rating": 4.27,
+            "num-pages": 406,
+            "publication-year": 2012
+        },
+        {
+            "name": "The Son of Neptune (The Heroes of Olympus, #2)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423140597,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.41,
+            "num-pages": 544,
+            "publication-year": 2011
+        },
+        {
+            "name": "The Poppy War (The Poppy War, #1)",
+            "author": "R.F. Kuang",
+            "isbn13": 9780062662590,
+            "publisher": "Harper Voyager",
+            "avg-rating": 4.07,
+            "num-pages": 531,
+            "publication-year": 2018
+        },
+        {
+            "name": "The Burning God (The Poppy War, #3)",
+            "author": "R.F. Kuang",
+            "isbn13": 9780008339142,
+            "publisher": "Harper Voyager",
+            "avg-rating": 4.32,
+            "num-pages": 640,
+            "publication-year": 2020
+        },
+        {
+            "name": "The Golden Compass (His Dark Materials, #1)",
+            "author": "Philip Pullman",
+            "isbn13": 9780679879244,
+            "publisher": "Alfred A. Knopf Books for Young Readers",
+            "avg-rating": 4.0,
+            "num-pages": 399,
+            "publication-year": 1995
+        },
+        {
+            "name": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality",
+            "author": "Brian Greene",
+            "isbn13": 9780965900584,
+            "publisher": "Alfred Knopf",
+            "avg-rating": 4.09,
+            "num-pages": 569,
+            "publication-year": 2003
+        },
+        {
+            "name": "2 States: The Story of My Marriage",
+            "author": "Chetan Bhagat",
+            "isbn13": 9788129115300,
+            "publisher": "Rupa & Co",
+            "avg-rating": 3.43,
+            "num-pages": 269,
+            "publication-year": 2009
+        },
+        {
+            "name": "Five Point Someone: What Not to Do at IIT",
+            "author": "Chetan Bhagat",
+            "isbn13": 9788129104595,
+            "publisher": "Rupa Publications",
+            "avg-rating": 3.43,
+            "num-pages": 267,
+            "publication-year": 2004
+        },
+        {
+            "name": "Half Girlfriend",
+            "author": "Chetan Bhagat",
+            "isbn13": 9788129135728,
+            "publisher": "Rupa Publications India",
+            "avg-rating": 3.13,
+            "num-pages": 260,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Assassin's Blade (Throne of Glass, #0.1-0.5)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781408852590,
+            "publisher": "Bloomsbury Childrens",
+            "avg-rating": 4.33,
+            "num-pages": 448,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Last Question",
+            "author": "Isaac Asimov",
+            "isbn13": 9781884214493,
+            "publisher": "Ziggurat Productions",
+            "avg-rating": 4.57,
+            "num-pages": 9,
+            "publication-year": 1956
+        },
+        {
+            "name": "Robots and Empire (Robot, #4)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780586062005,
+            "publisher": "Voyager",
+            "avg-rating": 4.19,
+            "num-pages": 512,
+            "publication-year": 1985
+        },
+        {
+            "name": "The Robots of Dawn (Robot, #3)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553299496,
+            "publisher": "Spectra",
+            "avg-rating": 4.17,
+            "num-pages": 435,
+            "publication-year": 1983
+        },
+        {
+            "name": "Forward the Foundation (Foundation: Prequel #2)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553565072,
+            "publisher": "Bantam/Spectra",
+            "avg-rating": 4.15,
+            "num-pages": 464,
+            "publication-year": 1993
+        },
+        {
+            "name": "Foundation and Earth (Foundation #5)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553587579,
+            "publisher": "Spectra",
+            "avg-rating": 4.06,
+            "num-pages": 500,
+            "publication-year": 1986
+        },
+        {
+            "name": "Foundation's Edge (Foundation #4)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553293388,
+            "publisher": "Bantam/Spectra",
+            "avg-rating": 4.14,
+            "num-pages": 450,
+            "publication-year": 1982
+        },
+        {
+            "name": "Second Foundation (Foundation #3)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553803730,
+            "publisher": "Bantam Spectra",
+            "avg-rating": 4.25,
+            "num-pages": 256,
+            "publication-year": 1953
+        },
+        {
+            "name": "Foundation and Empire (Foundation #2)",
+            "author": "Isaac Asimov",
+            "isbn13": 9780553803723,
+            "publisher": "Spectra Books",
+            "avg-rating": 4.21,
+            "num-pages": 244,
+            "publication-year": 1952
+        },
+        {
+            "name": "David Copperfield",
+            "author": "Charles Dickens",
+            "isbn13": 9788175994287,
+            "publisher": "Fingerprint Publishing",
+            "avg-rating": 4.01,
+            "num-pages": 924,
+            "publication-year": 1849
+        },
+        {
+            "name": "Flatland: A Romance of Many Dimensions",
+            "author": "Edwin A. Abbott",
+            "isbn13": 9780486272634,
+            "publisher": "Dover Publications, Inc.",
+            "avg-rating": 3.81,
+            "num-pages": 96,
+            "publication-year": 1884
+        },
+        {
+            "name": "Mort (Discworld, #4; Death, #1)",
+            "author": "Terry Pratchett",
+            "isbn13": 9780061020681,
+            "publisher": "Harpertorch",
+            "avg-rating": 4.2,
+            "num-pages": 243,
+            "publication-year": 1987
+        },
+        {
+            "name": "The Dark Talent (Alcatraz, #5)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765381408,
+            "publisher": "Starscape",
+            "avg-rating": 4.1,
+            "num-pages": 281,
+            "publication-year": 2016
+        },
+        {
+            "name": "Alcatraz Versus the Shattered Lens (Alcatraz, #4)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780439925570,
+            "publisher": "Scholastic Press",
+            "avg-rating": 4.13,
+            "num-pages": 294,
+            "publication-year": 2010
+        },
+        {
+            "name": "How the King of Elfhame Learned to Hate Stories (The Folk of the Air, #3.5)",
+            "author": "Holly Black",
+            "isbn13": 9780316540827,
+            "publisher": "Little, Brown Books for Young Readers",
+            "avg-rating": 4.25,
+            "num-pages": 200,
+            "publication-year": 2020
+        },
+        {
+            "name": "Alcatraz Versus the Knights of Crystallia (Alcatraz, #3)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780439925556,
+            "publisher": "Scholastic Press",
+            "avg-rating": 4.12,
+            "num-pages": 299,
+            "publication-year": 2009
+        },
+        {
+            "name": "Alcatraz Versus the Scrivener's Bones (Alcatraz, #2)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780439925532,
+            "publisher": "Scholastic Press",
+            "avg-rating": 4.13,
+            "num-pages": 322,
+            "publication-year": 2008
+        },
+        {
+            "name": "Alcatraz Versus the Evil Librarians (Alcatraz, #1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780439925501,
+            "publisher": "Scholastic Press",
+            "avg-rating": 3.9,
+            "num-pages": 308,
+            "publication-year": 2007
+        },
+        {
+            "name": "The Golden Tower (Magisterium, #5)",
+            "author": "Holly Black",
+            "isbn13": 9780545522427,
+            "publisher": "Scholastic Inc.",
+            "avg-rating": 4.03,
+            "num-pages": 256,
+            "publication-year": 2018
+        },
+        {
+            "name": "The Silver Mask (Magisterium #4)",
+            "author": "Holly Black",
+            "isbn13": 9780545522397,
+            "publisher": "Scholastic Press",
+            "avg-rating": 4.07,
+            "num-pages": 200,
+            "publication-year": 2017
+        },
+        {
+            "name": "The Copper Gauntlet (Magisterium, #2)",
+            "author": "Holly Black",
+            "isbn13": 9780545522281,
+            "publisher": "Scholastic Press",
+            "avg-rating": 4.13,
+            "num-pages": 264,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Iron Trial (Magisterium, #1)",
+            "author": "Holly Black",
+            "isbn13": 9780545522250,
+            "publisher": "Scholastic Press",
+            "avg-rating": 3.95,
+            "num-pages": 295,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Light of All That Falls (The Licanius Trilogy, #3)",
+            "author": "James Islington",
+            "isbn13": 9780356507835,
+            "publisher": "Orbit",
+            "avg-rating": 4.41,
+            "num-pages": 864,
+            "publication-year": 2019
+        },
+        {
+            "name": "An Echo of Things to Come (The Licanius Trilogy, #2)",
+            "author": "James Islington",
+            "isbn13": 9780316274111,
+            "publisher": "Orbit",
+            "avg-rating": 4.26,
+            "num-pages": 752,
+            "publication-year": 2017
+        },
+        {
+            "name": "The Shadow of What Was Lost (The Licanius Trilogy, #1)",
+            "author": "James Islington",
+            "isbn13": 9780992580209,
+            "publisher": "Aslaradis Publishing",
+            "avg-rating": 4.14,
+            "num-pages": 602,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Alchemist",
+            "author": "Paulo Coelho",
+            "isbn13": 9780062315007,
+            "publisher": "HarperOne",
+            "avg-rating": 3.89,
+            "num-pages": 182,
+            "publication-year": 1988
+        },
+        {
+            "name": "The Tower of Nero (The Trials of Apollo, #5)",
+            "author": "Rick Riordan",
+            "isbn13": 9781484746455,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.53,
+            "num-pages": 410,
+            "publication-year": 2020
+        },
+        {
+            "name": "Morning Star (Red Rising Saga, #3)",
+            "author": "Pierce Brown",
+            "isbn13": 9780345539847,
+            "publisher": "Del Rey",
+            "avg-rating": 4.47,
+            "num-pages": 524,
+            "publication-year": 2016
+        },
+        {
+            "name": "Golden Son (Red Rising Saga, #2)",
+            "author": "Pierce Brown",
+            "isbn13": 9780345539823,
+            "publisher": "Del Rey",
+            "avg-rating": 4.43,
+            "num-pages": 430,
+            "publication-year": 2015
+        },
+        {
+            "name": "Assassin's Apprentice (Farseer Trilogy, #1)",
+            "author": "Robin Hobb",
+            "isbn13": 9780553573398,
+            "publisher": "Spectra Books",
+            "avg-rating": 4.16,
+            "num-pages": 435,
+            "publication-year": 1995
+        },
+        {
+            "name": "A Wizard of Earthsea (Earthsea Cycle, #1)",
+            "author": "Ursula K. Le Guin",
+            "isbn13": 9780553383041,
+            "publisher": NaN,
+            "avg-rating": 3.99,
+            "num-pages": 183,
+            "publication-year": 1968
+        },
+        {
+            "name": "The Elite (The Selection, #2)",
+            "author": "Kiera Cass",
+            "isbn13": 9780062059963,
+            "publisher": "HarperTeen",
+            "avg-rating": 3.99,
+            "num-pages": 336,
+            "publication-year": 2013
+        },
+        {
+            "name": "The Prince (The Selection, #0.5)",
+            "author": "Kiera Cass",
+            "isbn13": 9780062248169,
+            "publisher": "HarperTeen",
+            "avg-rating": 3.92,
+            "num-pages": 64,
+            "publication-year": 2013
+        },
+        {
+            "name": "The Selection (The Selection, #1)",
+            "author": "Kiera Cass",
+            "isbn13": 9780062059932,
+            "publisher": "HarperTeen",
+            "avg-rating": 4.11,
+            "num-pages": 336,
+            "publication-year": 2012
+        },
+        {
+            "name": "Fool Moon (The Dresden Files, #2)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451458124,
+            "publisher": "Roc",
+            "avg-rating": 3.99,
+            "num-pages": 401,
+            "publication-year": 2001
+        },
+        {
+            "name": "The Lost Sisters (The Folk of the Air, #1.5)",
+            "author": "Holly Black",
+            "isbn13": 9780316310444,
+            "publisher": "NOVL",
+            "avg-rating": 3.52,
+            "num-pages": 50,
+            "publication-year": 2018
+        },
+        {
+            "name": "New Spring (The Wheel of Time, #0)",
+            "author": "Robert Jordan",
+            "isbn13": 9781841492612,
+            "publisher": "Orbit",
+            "avg-rating": 4.03,
+            "num-pages": 423,
+            "publication-year": 2004
+        },
+        {
+            "name": "Storm Front (The Dresden Files, #1)",
+            "author": "Jim Butcher",
+            "isbn13": 9780451457813,
+            "publisher": "Penguin ROC",
+            "avg-rating": 3.98,
+            "num-pages": 355,
+            "publication-year": 2000
+        },
+        {
+            "name": "Lies of the Beholder (Legion, #3)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9781596068858,
+            "publisher": "Subterranean Press",
+            "avg-rating": 4.13,
+            "num-pages": 148,
+            "publication-year": 2018
+        },
+        {
+            "name": "Legion (Legion, #1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9781596064850,
+            "publisher": "Subterranean Press",
+            "avg-rating": 4.14,
+            "num-pages": 88,
+            "publication-year": 2012
+        },
+        {
+            "name": "White Sand, Volume 1 (White Sand, #1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9781606908853,
+            "publisher": "Dynamic Forces",
+            "avg-rating": 3.63,
+            "num-pages": 160,
+            "publication-year": 2016
+        },
+        {
+            "name": "Redemption (Infinity Blade, #2)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780983943020,
+            "publisher": "ChAIR Entertainment Group",
+            "avg-rating": 3.87,
+            "num-pages": 200,
+            "publication-year": 2013
+        },
+        {
+            "name": "Rogues",
+            "author": "George R.R. Martin",
+            "isbn13": 9780345537263,
+            "publisher": "Bantam Books",
+            "avg-rating": 3.89,
+            "num-pages": 806,
+            "publication-year": 2014
+        },
+        {
+            "name": "Dragons of Spring Dawning (Dragonlance: Chronicles, #3)",
+            "author": "Margaret Weis",
+            "isbn13": 9780786930708,
+            "publisher": "Wizards of the Coast",
+            "avg-rating": 4.09,
+            "num-pages": 352,
+            "publication-year": 1985
+        },
+        {
+            "name": "Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)",
+            "author": "Margaret Weis",
+            "isbn13": 9780786915743,
+            "publisher": "Wizards of the Coast",
+            "avg-rating": 3.99,
+            "num-pages": 444,
+            "publication-year": 1984
+        },
+        {
+            "name": "Dragons of Winter Night (Dragonlance: Chronicles, #2)",
+            "author": "Margaret Weis",
+            "isbn13": 9781932796780,
+            "publisher": "Devil's Due Publishing",
+            "avg-rating": 4.09,
+            "num-pages": 358,
+            "publication-year": 1985
+        },
+        {
+            "name": "Towers of Midnight (The Wheel of Time, #13)",
+            "author": "Robert Jordan",
+            "isbn13": 9780765325945,
+            "publisher": "Tom Doherty Associates TOR Fantasy",
+            "avg-rating": 4.42,
+            "num-pages": 863,
+            "publication-year": 2010
+        },
+        {
+            "name": "Knife of Dreams (The Wheel of Time, #11)",
+            "author": "Robert Jordan",
+            "isbn13": 9780812577563,
+            "publisher": "Tom Doherty Associates",
+            "avg-rating": 4.14,
+            "num-pages": 860,
+            "publication-year": 2005
+        },
+        {
+            "name": "Crossroads of Twilight (The Wheel of Time, #10)",
+            "author": "Robert Jordan",
+            "isbn13": 9780312864590,
+            "publisher": "Tor Books",
+            "avg-rating": 3.8,
+            "num-pages": 704,
+            "publication-year": 2003
+        },
+        {
+            "name": "Winter's Heart (The Wheel of Time, #9)",
+            "author": "Robert Jordan",
+            "isbn13": 9780812575583,
+            "publisher": "Tor Fantasy",
+            "avg-rating": 3.94,
+            "num-pages": 780,
+            "publication-year": 2000
+        },
+        {
+            "name": "The Path of Daggers (The Wheel of Time, #8)",
+            "author": "Robert Jordan",
+            "isbn13": 9780812550290,
+            "publisher": "Tor Books",
+            "avg-rating": 3.91,
+            "num-pages": 685,
+            "publication-year": 1998
+        },
+        {
+            "name": "A Crown of Swords (The Wheel of Time, #7)",
+            "author": "Robert Jordan",
+            "isbn13": 9780812550283,
+            "publisher": "Tor Books",
+            "avg-rating": 4.04,
+            "num-pages": 880,
+            "publication-year": 1996
+        },
+        {
+            "name": "Lord of Chaos (The Wheel of Time, #6)",
+            "author": "Robert Jordan",
+            "isbn13": 9780812513752,
+            "publisher": "Tor Books",
+            "avg-rating": 4.14,
+            "num-pages": 1011,
+            "publication-year": 1994
+        },
+        {
+            "name": "The Republic of Thieves (Gentleman Bastard, #3)",
+            "author": "Scott Lynch",
+            "isbn13": 9780553804690,
+            "publisher": "Del Rey",
+            "avg-rating": 4.19,
+            "num-pages": 650,
+            "publication-year": 2013
+        },
+        {
+            "name": "The Fires of Heaven (The Wheel of Time, #5)",
+            "author": "Robert Jordan",
+            "isbn13": 9781857232097,
+            "publisher": "Orbit",
+            "avg-rating": 4.16,
+            "num-pages": 912,
+            "publication-year": 1993
+        },
+        {
+            "name": "The Shadow Rising (The Wheel of Time, #4)",
+            "author": "Robert Jordan",
+            "isbn13": 9780812513738,
+            "publisher": "Tom Doherty Tor Fantasy",
+            "avg-rating": 4.24,
+            "num-pages": 1007,
+            "publication-year": 1992
+        },
+        {
+            "name": "The Dragon Reborn (The Wheel of Time, #3)",
+            "author": "Robert Jordan",
+            "isbn13": 9780765305114,
+            "publisher": "Tor Books",
+            "avg-rating": 4.25,
+            "num-pages": 624,
+            "publication-year": 1991
+        },
+        {
+            "name": "The Great Hunt (The Wheel of Time, #2)",
+            "author": "Robert Jordan",
+            "isbn13": 9780812517729,
+            "publisher": "Tor Books",
+            "avg-rating": 4.23,
+            "num-pages": 705,
+            "publication-year": 1990
+        },
+        {
+            "name": "Calamity (Reckoners, #3)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780385743600,
+            "publisher": "Delacorte Press",
+            "avg-rating": 4.19,
+            "num-pages": 424,
+            "publication-year": 2016
+        },
+        {
+            "name": "Mitosis (The Reckoners, #1.5)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780449818435,
+            "publisher": "Delacorte Press",
+            "avg-rating": 3.86,
+            "num-pages": 55,
+            "publication-year": 2013
+        },
+        {
+            "name": "Firefight (The Reckoners, #2)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780385743587,
+            "publisher": "Delacorte Press",
+            "avg-rating": 4.26,
+            "num-pages": 416,
+            "publication-year": 2015
+        },
+        {
+            "name": "Steelheart (The Reckoners, #1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780385743563,
+            "publisher": "Delacorte Press",
+            "avg-rating": 4.12,
+            "num-pages": 386,
+            "publication-year": 2013
+        },
+        {
+            "name": "Mistborn Trilogy Boxed Set (Mistborn, #1-3)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765365439,
+            "publisher": "Tor Fantasy",
+            "avg-rating": 4.57,
+            "num-pages": 2176,
+            "publication-year": 2009
+        },
+        {
+            "name": "To Kill A Mockingbird",
+            "author": "Harper Lee",
+            "isbn13": 9780333398548,
+            "publisher": "Red Globe Press/Macmillan Master Series",
+            "avg-rating": 4.27,
+            "num-pages": 96,
+            "publication-year": 1960
+        },
+        {
+            "name": "Shadows of Self (Mistborn, #5)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765378552,
+            "publisher": "Tor Books",
+            "avg-rating": 4.27,
+            "num-pages": 383,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Alloy of Law (Mistborn Saga, #4)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765330420,
+            "publisher": "Tor Books",
+            "avg-rating": 4.19,
+            "num-pages": 332,
+            "publication-year": 2011
+        },
+        {
+            "name": "Edgedancer (The Stormlight Archive, #2.5)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9781250166548,
+            "publisher": "Tor Books",
+            "avg-rating": 4.27,
+            "num-pages": 272,
+            "publication-year": 2017
+        },
+        {
+            "name": "The Emperor's Soul",
+            "author": "Brandon Sanderson",
+            "isbn13": 9781616960926,
+            "publisher": "Tachyon Publications",
+            "avg-rating": 4.32,
+            "num-pages": 175,
+            "publication-year": 2012
+        },
+        {
+            "name": "Oathbringer (The Stormlight Archive, #3)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765326379,
+            "publisher": "Tor Books",
+            "avg-rating": 4.57,
+            "num-pages": 1248,
+            "publication-year": 2017
+        },
+        {
+            "name": "Mockingjay (The Hunger Games, #3)",
+            "author": "Suzanne Collins",
+            "isbn13": 9780439023511,
+            "publisher": "Scholastic Press",
+            "avg-rating": 4.05,
+            "num-pages": 398,
+            "publication-year": 2010
+        },
+        {
+            "name": "Catching Fire (The Hunger Games, #2)",
+            "author": "Suzanne Collins",
+            "isbn13": 9780439023498,
+            "publisher": "Scholastic Press",
+            "avg-rating": 4.3,
+            "num-pages": 391,
+            "publication-year": 2009
+        },
+        {
+            "name": "Elantris (Elantris, #1)",
+            "author": "Brandon Sanderson",
+            "isbn13": 9780765350374,
+            "publisher": "Tor Fantasy",
+            "avg-rating": 4.17,
+            "num-pages": 622,
+            "publication-year": 2005
+        },
+        {
+            "name": "The Hunger Games (The Hunger Games, #1)",
+            "author": "Suzanne Collins",
+            "isbn13": 9780439023481,
+            "publisher": "Scholastic Press",
+            "avg-rating": 4.32,
+            "num-pages": 374,
+            "publication-year": 2008
+        },
+        {
+            "name": "Kingdom of Ash (Throne of Glass, #7)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781619636101,
+            "publisher": "Bloomsbury YA",
+            "avg-rating": 4.56,
+            "num-pages": 984,
+            "publication-year": 2018
+        },
+        {
+            "name": "Everblaze (Keeper of the Lost Cities, #3)",
+            "author": "Shannon Messenger",
+            "isbn13": 9781442445994,
+            "publisher": "Aladdin",
+            "avg-rating": 4.57,
+            "num-pages": 624,
+            "publication-year": 2014
+        },
+        {
+            "name": "Exile (Keeper of the Lost Cities, #2)",
+            "author": "Shannon Messenger",
+            "isbn13": 9781442445987,
+            "publisher": "Aladdin",
+            "avg-rating": 4.53,
+            "num-pages": 576,
+            "publication-year": 2013
+        },
+        {
+            "name": "The Burning Maze (The Trials of Apollo, #3)",
+            "author": "Rick Riordan",
+            "isbn13": 9781368024129,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.34,
+            "num-pages": 448,
+            "publication-year": 2018
+        },
+        {
+            "name": "Keeper of the Lost Cities (Keeper of the Lost Cities, #1)",
+            "author": "Shannon Messenger",
+            "isbn13": 9781442445932,
+            "publisher": "Aladdin",
+            "avg-rating": 4.44,
+            "num-pages": 496,
+            "publication-year": 2012
+        },
+        {
+            "name": "The Dark Prophecy (The Trials of Apollo, #2)",
+            "author": "Rick Riordan",
+            "isbn13": 9781484746424,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.21,
+            "num-pages": 414,
+            "publication-year": 2017
+        },
+        {
+            "name": "Flashback (Keeper of the Lost Cities, #7)",
+            "author": "Shannon Messenger",
+            "isbn13": 9781481497459,
+            "publisher": "Aladdin",
+            "avg-rating": 4.41,
+            "num-pages": 848,
+            "publication-year": 2018
+        },
+        {
+            "name": "Nightfall (Keeper of the Lost Cities, #6)",
+            "author": "Shannon Messenger",
+            "isbn13": 9781481497428,
+            "publisher": "Aladdin",
+            "avg-rating": 4.6,
+            "num-pages": 576,
+            "publication-year": 2017
+        },
+        {
+            "name": "Sabriel (Abhorsen,  #1)",
+            "author": "Garth Nix",
+            "isbn13": 9780064471831,
+            "publisher": "Harper Collins",
+            "avg-rating": 4.14,
+            "num-pages": 491,
+            "publication-year": 1995
+        },
+        {
+            "name": "The Hidden Oracle (The Trials of Apollo, #1)",
+            "author": "Rick Riordan",
+            "isbn13": 9781484732748,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.19,
+            "num-pages": 384,
+            "publication-year": 2016
+        },
+        {
+            "name": "Tower of Dawn (Throne of Glass, #6)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781681195773,
+            "publisher": "Bloomsbury USA Childrens",
+            "avg-rating": 4.29,
+            "num-pages": 660,
+            "publication-year": 2017
+        },
+        {
+            "name": "Queen of Shadows (Throne of Glass, #4)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781619636040,
+            "publisher": "Bloomsbury USA Childrens",
+            "avg-rating": 4.53,
+            "num-pages": 648,
+            "publication-year": 2015
+        },
+        {
+            "name": "Stardust",
+            "author": "Neil Gaiman",
+            "isbn13": 9780061142024,
+            "publisher": "Harper Perennial",
+            "avg-rating": 4.08,
+            "num-pages": 248,
+            "publication-year": 1998
+        },
+        {
+            "name": "Heir of Fire (Throne of Glass, #3)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781619630659,
+            "publisher": "Bloomsbury USA Childrens",
+            "avg-rating": 4.44,
+            "num-pages": 565,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Princess Bride",
+            "author": "William Goldman",
+            "isbn13": 9780345418265,
+            "publisher": "Ballantine Books",
+            "avg-rating": 4.25,
+            "num-pages": 456,
+            "publication-year": 1973
+        },
+        {
+            "name": "A Court of Frost and Starlight (A Court of Thorns and Roses, #3.1)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781681196312,
+            "publisher": "Bloomsbury YA",
+            "avg-rating": 3.81,
+            "num-pages": 229,
+            "publication-year": 2018
+        },
+        {
+            "name": "A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781408857908,
+            "publisher": "Bloomsbury Publishing",
+            "avg-rating": 4.41,
+            "num-pages": 705,
+            "publication-year": 2017
+        },
+        {
+            "name": "A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781619634442,
+            "publisher": "Bloomsbury USA Childrens",
+            "avg-rating": 4.18,
+            "num-pages": 419,
+            "publication-year": 2015
+        },
+        {
+            "name": "City of Glass (The Mortal Instruments, #3)",
+            "author": "Cassandra Clare",
+            "isbn13": 9781416914303,
+            "publisher": "Margaret K. McElderry Books",
+            "avg-rating": 4.29,
+            "num-pages": 541,
+            "publication-year": 2009
+        },
+        {
+            "name": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+            "author": "C.S. Lewis",
+            "isbn13": 9780066238500,
+            "publisher": "HarperCollins",
+            "avg-rating": 4.25,
+            "num-pages": 767,
+            "publication-year": 1956
+        },
+        {
+            "name": "The Tales of Beedle the Bard (Hogwarts Library)",
+            "author": "J.K. Rowling",
+            "isbn13": 9780747599876,
+            "publisher": "Bloomsbury",
+            "avg-rating": 4.04,
+            "num-pages": 109,
+            "publication-year": 2008
+        },
+        {
+            "name": "The Silmarillion",
+            "author": "J.R.R. Tolkien",
+            "isbn13": 9780618391110,
+            "publisher": "Houghton Mifflin Company",
+            "avg-rating": 3.94,
+            "num-pages": 386,
+            "publication-year": 1977
+        },
+        {
+            "name": "Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)",
+            "author": "John Tiffany",
+            "isbn13": 9780751565355,
+            "publisher": "Little, Brown",
+            "avg-rating": 3.56,
+            "num-pages": 343,
+            "publication-year": 2016
+        },
+        {
+            "name": "Graceling (Graceling Realm, #1)",
+            "author": "Kristin Cashore",
+            "isbn13": 9780152063962,
+            "publisher": "Harcourt",
+            "avg-rating": 4.06,
+            "num-pages": 471,
+            "publication-year": 2008
+        },
+        {
+            "name": "Crown of Midnight (Throne of Glass, #2)",
+            "author": "Sarah J. Maas",
+            "isbn13": 9781619630628,
+            "publisher": "Bloomsbury USA Childrens",
+            "avg-rating": 4.36,
+            "num-pages": 420,
+            "publication-year": 2013
+        },
+        {
+            "name": "The Slow Regard of Silent Things (The Kingkiller Chronicle, #2.5)",
+            "author": "Patrick Rothfuss",
+            "isbn13": 9780756410438,
+            "publisher": "DAW Books",
+            "avg-rating": 3.89,
+            "num-pages": 159,
+            "publication-year": 2014
+        },
+        {
+            "name": "The Ship of the Dead (Magnus Chase and the Gods of Asgard, #3)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423160939,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.39,
+            "num-pages": 410,
+            "publication-year": 2017
+        },
+        {
+            "name": "The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423160915,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.21,
+            "num-pages": 499,
+            "publication-year": 2015
+        },
+        {
+            "name": "The Hammer of Thor (Magnus Chase and the Gods of Asgard, #2)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423160922,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.34,
+            "num-pages": 459,
+            "publication-year": 2016
+        },
+        {
+            "name": "Blood of Elves (The Witcher, #1)",
+            "author": "Andrzej Sapkowski",
+            "isbn13": 9780316029193,
+            "publisher": "Hachette Book Group",
+            "avg-rating": 4.09,
+            "num-pages": 398,
+            "publication-year": 1994
+        },
+        {
+            "name": "The Red Pyramid: The Graphic Novel (The Kane Chronicles: The Graphic Novels, #1)",
+            "author": "Orpheus Collar",
+            "isbn13": 9781423150688,
+            "publisher": "Disney-Hyperion",
+            "avg-rating": 4.29,
+            "num-pages": 192,
+            "publication-year": 2012
+        },
+        {
+            "name": "The Mark of Athena (The Heroes of Olympus, #3)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423140603,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.44,
+            "num-pages": 592,
+            "publication-year": 2012
+        },
+        {
+            "name": "The Lost Hero (The Heroes of Olympus, #1)",
+            "author": "Rick Riordan",
+            "isbn13": 9781423113393,
+            "publisher": "Disney-Hyperion Books",
+            "avg-rating": 4.31,
+            "num-pages": 576,
+            "publication-year": 2010
+        },
+        {
+            "name": "Jane Eyre",
+            "author": "Charlotte Bront\u00eb",
+            "isbn13": 9780142437209,
+            "publisher": "Penguin",
+            "avg-rating": 4.13,
+            "num-pages": 532,
+            "publication-year": 1847
+        },
+        {
+            "name": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "isbn13": 9780345538376,
+            "publisher": "Ballantine Books",
+            "avg-rating": 4.6,
+            "num-pages": 1728,
+            "publication-year": 1955
+        },
+        {
+            "name": "Gulliver's Travels: Travels into Several Remote Nations of the World.",
+            "author": "Jonathan Swift",
+            "isbn13": 9780141439495,
+            "publisher": "Penguin",
+            "avg-rating": 3.58,
+            "num-pages": 306,
+            "publication-year": 1726
+        },
+        {
+            "name": "A Thousand Splendid Suns",
+            "author": "Khaled Hosseini",
+            "isbn13": 9781594489501,
+            "publisher": "Riverhead Books",
+            "avg-rating": 4.39,
+            "num-pages": 372,
+            "publication-year": 2007
+        },
+        {
+            "name": "Twilight (The Twilight Saga, #1)",
+            "author": "Stephenie Meyer",
+            "isbn13": 9780316015844,
+            "publisher": "Little, Brown and Company",
+            "avg-rating": 3.62,
+            "num-pages": 387,
+            "publication-year": 2005
+        }
+    ]
+}
