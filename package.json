@@ -1,0 +1,24 @@
+{
+  "name": "book-gallery",
+  "version": "1.0.0",
+  "description": "The repository is made to host my small webpage, The Book Gallery.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hari31416/Book-Gallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hari31416/Book-Gallery/issues"
+  },
+  "homepage": "https://github.com/Hari31416/Book-Gallery#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}

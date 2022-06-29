@@ -1,0 +1,50 @@
+body {
+    background-size: 100% auto;
+    background-repeat: round;
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.border {
+    border-width: 3px !important;
+}
+
+#link {
+    text-decoration: none;
+}
+
+.lead {
+    font-size: 1.2em;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+}
+
+#footer {
+    margin-top: auto;
+    width: 100%;
+    padding: 15px 0px 0px 15px;
+    height: 120px;
+    display: block;
+    border-top: 3px solid black;
+}
+
+.social {
+    display: flex;
+}
+
+.dropdown-menu>a:hover {
+    background-color: rgb(18, 18, 19);
+}
+
+.dropdown-menu {
+    border: none;
+}
+
+.progress {
+    background-color: transparent;
+    height: 30px;
+    border: 1.2px rgb(201, 51, 51) solid;
+    /* border-radius: 18px; */
+}
