@@ -1,0 +1,30 @@
+<!-- THE HAED -->
+<%- include('partials/head', {title})%>
+<!-- THE NAV -->
+<%- include('partials/nav')%>
+<!-- THE BODY -->
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-10 col-lg-8 col-sm-12 offset-md-1 offset-lg-2">
+      <% if (books.length!==0) { %>
+      <h3 class="py-3">Here is a list of all the books:</h3>
+
+      <% } else { %>
+      <h3 class="py-3">Sorry! No book found.</h3>
+      <p class="lead">Try using different queries.</p>
+      <% } %>
+      <% books.forEach(book => { %>
+      <p><a href="/books/<%= book._id %> "><b><%= book.name %> </b></a><br> <span class="ml-5" style="font-family: cursive; font-size: 1.2rem;">by <%= book.author.join(", ") %> </span>
+        <br>
+        <% book.genre.forEach(g => { %>
+        <span class="ml-5"><%= g %> </span><br>
+        <% }) %>
+        <hr>
+        <% })%>
+      </p>
+
+    </div>
+  </div>
+</div>
+<!-- THE FOOTER -->
+<%- include('partials/footer')%>

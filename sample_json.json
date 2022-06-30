@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Rhythm of War",
+        "author": "Brandon Sanderson",
+        "genre": [
+            "Fantasy",
+            "Epic Fantasy"
+        ],
+        "language": "English",
+        "numPages": 1220,
+        "description": "After forming a coalition of human resistance against the enemy invasion, Dalinar Kholin and his Knights Radiant have spent a year fighting a protracted, brutal war. Neither side has gained an advantage, and the threat of a betrayal by Dalinar's crafty ally Taravangian looms over every strategic move./n Now, as new technological discoveries by Navani Kholin's scholars begin to change the face of the war, the enemy prepares a bold and dangerous operation. The arms race that follows will challenge the very core of the Radiant ideals, and potentially reveal the secrets of the ancient tower that was once the heart of their strength./n At the same time that Kaladin Stormblessed must come to grips with his changing role within the Knights Radiant, his Windrunners face their own problem: As more and more deadly enemy Fused awaken to wage war, no more honorspren are willing to bond with humans to increase the number of Radiants. Adolin and Shallan must lead the coalition’s envoy to the honorspren stronghold of Lasting Integrity and either convince the spren to join the cause against the evil god Odium, or personally face the storm of failure.",
+        "yearPublished": 2020,
+        "series": "Stormlight Archive",
+        "ISBN": 9780765326386,
+        "avgRating": 4.62,
+        "publisher": "Tor Books",
+        "imgUrlsLow": [
+            "https://images-na.ssl-images-amazon.com/images/I/51-X-Q-X-QL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "imgUrlsHigh": [
+            "/images/400/Rhythm  400px.png",
+            "/images/400/Jane Eyre.jpg",
+            "/images/400/Harry Potter and the Prisoner Azkaban 400px.png"
+        ]
+    },
+    {
+        "name": "Jane Eyre",
+        "author": "Charlotte Bront\u00eb",
+        "genre": [
+            "Classic",
+            "Fiction"
+        ],
+        "language": "English",
+        "numPages": 532,
+        "description": "",
+        "yearPublished": 1847,
+        "series": "NA",
+        "ISBN": 9780786400981,
+        "avgRating": 4.13,
+        "publisher": "Penguin Classics",
+        "imgUrlsLow": [
+            "https://images-na.ssl-images-amazon.com/images/I/51-X-Q-X-QL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "imgUrlsHigh": [
+            "/images/400/Jane Eyre.jpg"
+        ]
+    },
+    {
+        "name": "Harry Potter and the Philosopher's Stone (Harry Potter, #1)",
+        "author": "J.K. Rowling",
+        "genre": [
+            "Fantasy",
+            "Middle-Age"
+        ],
+        "language": "English",
+        "numPages": 332,
+        "description": "",
+        "yearPublished": 1997,
+        "series": "Harry Potter",
+        "ISBN": 9781408855652,
+        "avgRating": 4.47,
+        "publisher": "Bloomsbury",
+        "imgUrlsLow": [
+            "https://images-na.ssl-images-amazon.com/images/I/51-X-Q-X-QL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "imgUrlsHigh": [
+            "/images/400/Harry Potter and the Prisoner Azkaban 400px.png"
+        ]
+    },
+    {
+        "name": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "genre": [
+            "Fantasy",
+            "Epic Fantasy"
+        ],
+        "language": "English",
+        "numPages": 662,
+        "description": "",
+        "yearPublished": 2007,
+        "series": "Kingkiller Chronicles",
+        "ISBN": 9780756404079,
+        "avgRating": 4.51,
+        "publisher": "Penguin Group DAW",
+        "imgUrlsLow": [
+            "https://images-na.ssl-images-amazon.com/images/I/51-X-Q-X-QL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "imgUrlsHigh": [
+            "/images/400/The Name the Wind 400px.png"
+        ]
+    },
+    {
+        "name": "Dune",
+        "author": "Frank Herbert",
+        "genre": [
+            "Sci-Fi",
+            "Fantasy"
+        ],
+        "language": "English",
+        "numPages": 688,
+        "description": "",
+        "yearPublished": 1965,
+        "series": "Dune",
+        "ISBN": 9780593099322,
+        "avgRating": 4.24,
+        "publisher": "Ace Books",
+        "imgUrlsLow": [
+            "https://images-na.ssl-images-amazon.com/images/I/51-X-Q-X-QL._SX331_BO1,204,203,200_.jpg"
+        ],
+        "imgUrlsHigh": [
+            "/images/400/Dune 400px.png"
+        ]
+    }
+]

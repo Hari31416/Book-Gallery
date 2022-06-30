@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-  <a class="navbar-brand" href="#">Home</a>
+  <a class="navbar-brand" href="/">Home</a>
   <!-- Collapsable Button -->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -7,15 +7,20 @@
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <!-- Starting the Navbar -->
     <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="/books" id="navbarDropdownMenuLink">
+          All Books
+        </a>
+      </li>
       <!-- THE GENRE -->
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-expanded="false">
           Genre
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#" target="blank">Fantasy</a>
-          <a class="dropdown-item" href="#" target="blank">Sci-Fi</a>
-          <a class="dropdown-item" href="#" target="blank">Classic</a>
+          <a class="dropdown-item" href="/books?genre=Fantasy" target="blank">Fantasy</a>
+          <a class="dropdown-item" href="/books?genre=Sci-Fi" target="blank">Sci-Fi</a>
+          <a class="dropdown-item" href="/books?genre=Classic" target="blank">Classic</a>
         </div>
       </li>
       <!-- AUTHORS -->
@@ -30,16 +35,16 @@
             </a>
             <ul class="dropdown-menu dropdown-submenu">
               <li>
-                <a class="dropdown-item" href="#">Brandon Sanderson</a>
+                <a class="dropdown-item" href="/books?author=Brandon%20Sanderson">Brandon Sanderson</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Robert Jordan</a>
+                <a class="dropdown-item" href="/books?author=Robert%20Jordan">Robert Jordan</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">JRR Martin</a>
+                <a class="dropdown-item" href="/books?author=JRR%20Martin">JRR Martin</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Patrick Rothfuss</a>
+                <a class="dropdown-item" href="/books?author=Patrick%20Rothfuss">Patrick Rothfuss</a>
               </li>
               <li>
                 <a class="dropdown-item" href="#">More » </a>
@@ -57,13 +62,13 @@
             </a>
             <ul class="dropdown-menu dropdown-submenu">
               <li>
-                <a class="dropdown-item" href="#">Isaac Asimov</a>
+                <a class="dropdown-item" href="/books?author=Isaac%20Asimov">Isaac Asimov</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">James S. A. Corey</a>
+                <a class="dropdown-item" href="/books?author=JSA%20Corey">JSA Corey</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Frank Herbert</a>
+                <a class="dropdown-item" href="/books?author=Frank%20Herbert">Frank Herbert</a>
               </li>
             </ul>
           </li>
@@ -73,13 +78,13 @@
             </a>
             <ul class="dropdown-menu dropdown-submenu">
               <li>
-                <a class="dropdown-item" href="#">JRR Tolkien</a>
+                <a class="dropdown-item" href="/books?author=JRR%20Tolkien">JRR Tolkien</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Jane Austin</a>
+                <a class="dropdown-item" href="/books?author=Jane%20Austin">Jane Austin</a>
               </li>
               <li>
-                <a class="dropdown-item" href="#">Charles Dickens</a>
+                <a class="dropdown-item" href="/books?author=Charles%20Dickens">Charles Dickens</a>
               </li>
             </ul>
           </li>
