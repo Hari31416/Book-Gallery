@@ -1,0 +1,20 @@
+1656664812996	geckodriver	INFO	Listening on 127.0.0.1:58169
+1656664816051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofile1y7lW9"
+1656664816757	Marionette	INFO	Marionette enabled
+1656664816769	Marionette	INFO	Listening on port 58183
+WebDriver BiDi listening on ws://localhost:58170
+Read port: 58183
+1656664817031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofile1y7lW9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58170/devtools/browser/9de47fbf-8364-4ebc-9d8c-40a6cc004bfe
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jM248wiKq0YW9gJU5iyZLO601i5VwbJBYGHxrXeF70U.js line 2 > eval line 5741 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656664851105	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/jM248wiKq0YW9gJU5iyZLO601i5VwbJBYGHxrXeF70U.js line 2 > eval line 4806 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1656664853496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: The operation is insecure.
+1656665045679	Marionette	INFO	Stopped listening on port 58183
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
