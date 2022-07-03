@@ -29,7 +29,26 @@ app.set("views", path.join(__dirname, "views"));
 // THE HOME ROUTE
 app.get("/", async (req, res) => {
   const title = "Welcome to the Homepage";
-  const books = await Book.find();
+  const books_all = await Book.find();
+  var randNums = [];
+  for (let index = 0; index < 30; index++) {
+    var randNum = Math.floor(Math.random() * books_all.length);
+    randNums.push(randNum);
+  }
+  var books = [];
+  var j = 0;
+  for (let index = 0; index < 30; index++) {
+    foundBook = books_all[randNums[index]];
+    var bookHighImageUrls = foundBook.imgUrlsHigh;
+    if (bookHighImageUrls.length > 0) {
+      books.push(foundBook);
+      j++;
+    }
+    if (j >= 10) {
+      break;
+    }
+  }
+  console.log(books[0]);
   res.render("home", { title: title, books: books });
 });
 

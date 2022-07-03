@@ -14,10 +14,12 @@
       <p class="lead">Try using different queries.</p>
       <% } %>
       <% books.forEach(book => { %>
-      <p><a href="/books/<%= book._id %> "><b><%= book.name %> </b></a><br> <span class="ml-5" style="font-family: cursive; font-size: 1.2rem;">by <%= book.author.join(", ") %> </span>
+      <p><a href="/books/<%= book._id %> "><b><%= book.name %> </b></a><br> <span class="ml-5" style="font-family: cursive; font-size: 1.2rem;">by <% book.author.forEach(a => { %>
+          <a href="/books?author=<%= a %> "><%= a %> </a>
+          <% }) %></span>
         <br>
         <% book.genre.forEach(g => { %>
-        <span class="ml-5"><%= g %> </span><br>
+        <span class="ml-5"><a href="/books?genre=<%= g %> "><%= g %></a></span><br>
         <% }) %>
         <hr>
         <% })%>

@@ -92,7 +92,12 @@
         <p>Average Rating: <%= book.avgRating %> </p>
         <p>Number of Pages: <%= book.numPages %> </p>
         <p>Language: <%= book.language %> </p>
-        <p>Genre: <%= book.genre[0] %> </p>
+        <p>Genre:</p>
+        <ul>
+          <% for( let i = 0; i < book.genre.length; i++ ) { %>
+          <li><%= book.genre[i] %></li>
+          <% } %>
+        </ul>
         <p>Publication Year: <%= book.yearPublished %> </p>
       </div>
     </div>

@@ -18,7 +18,7 @@ const bookSchema = new mongoose.Schema({
     required: true,
   },
   numPages: {
-    type: Number,
+    type: String,
     min: 1,
     max: 10000,
   },
@@ -26,7 +26,7 @@ const bookSchema = new mongoose.Schema({
     type: String,
   },
   yearPublished: {
-    type: Number,
+    type: String,
     min: 1,
     max: new Date().getFullYear(),
   },
