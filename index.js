@@ -3,12 +3,10 @@ const app = express();
 const path = require("path");
 const mongoose = require("mongoose");
 // const methodOverride = require("method-override");
-
 const Book = require("./models/book");
-
 mongoose
   .connect(
-    "mongodb+srv://hari31416:Hari%40MongoDB@cluster0.k0zxu.mongodb.net/bookGallery",
+    `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.k0zxu.mongodb.net/bookGallery`,
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
@@ -93,6 +91,6 @@ app.get("/books/:id", async (req, res) => {
   title = foundBook.name;
   res.render("book", { title: title, book: foundBook });
 });
-app.listen(3000, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log("LISTENING ON PORT 3000");
 });

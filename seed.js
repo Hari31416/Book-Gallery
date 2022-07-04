@@ -12,10 +12,9 @@ var file = JSON.parse(fs.readFileSync("./FINAL_INFO_WITH_EVERYTHING.json"));
 
 const mongoose = require("mongoose");
 const Book = require("./models/book");
-
 mongoose
   .connect(
-    "mongodb+srv://hari31416:Hari%40MongoDB@cluster0.k0zxu.mongodb.net/bookGallery",
+    `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.k0zxu.mongodb.net/bookGallery`
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
