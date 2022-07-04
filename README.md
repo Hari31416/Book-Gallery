@@ -16,3 +16,8 @@ I hope to built a full website which has the following features:
 - A random author page
 
 ... and much more!
+
+## Website Available!
+The website is available to view. You can see it at [Book-Gallery](https://h31416-book-gallery.herokuapp.com/).
+
+> Please note that not all the features are available yet. I will keep updating.
