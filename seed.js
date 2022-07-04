@@ -1,12 +1,4 @@
 const fs = require("fs");
-// fs.readFile("./FINAL.json", function (err, data) {
-//   if (data) {
-//     console.log("Read JSON file: " + data);
-//     data = data.trim();
-//     //or data = JSON.parse(JSON.stringify(data.trim()));
-//     var file = JSON.parse(data);
-//   }
-// });
 var file = JSON.parse(fs.readFileSync("./FINAL_INFO_WITH_EVERYTHING.json"));
 // console.log(file);
 
@@ -35,12 +27,6 @@ Book.deleteMany({}, (err) => {
     console.log("removed all books");
   }
 });
-// console.log(file[0].genre);
-// var rawGenre = file[0].genre;
-// genres = rawGenre.slice(1, rawGenre.length - 1).split(", ");
-// console.log(genres);
-// console.log(typeof genres);
-// console.log(typeof file);
 
 // MAKING GENRE A LIST AND CLEANING IT
 file.forEach((f) => {

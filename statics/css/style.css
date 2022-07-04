@@ -23,7 +23,7 @@ body {
     margin-top: auto;
     width: 100%;
     padding: 15px 0px 0px 15px;
-    height: 120px;
+    height: 90px;
     display: block;
     border-top: 3px solid black;
 }
@@ -87,7 +87,9 @@ font-size: 1.3rem;
 .dropdown-menu>li:hover>.dropdown-submenu {
     display: block;
 }
-
+.carousel-item{
+    height: 800px;
+}
 @media (max-width: 1050px) {
     #series {
         font-size: 0.9rem;
@@ -137,9 +139,13 @@ font-size: 1.3rem;
         left: 20%;
     }
     .dropdown-menu .dropdown-submenu-left {
-        right: 20%;}
-}
+        right: 20%;
+    }
 
+    .carousel-item {
+        height: 600px;
+    }
+}
 @media (max-width: 520px) {
     #series {
         font-size: 0.8rem;
@@ -162,5 +168,8 @@ font-size: 1.3rem;
     
         .dropdown-menu .dropdown-submenu-left {
             right: 30%;
+        }
+        .carousel-item {
+            height: 500px;
         }
 }
