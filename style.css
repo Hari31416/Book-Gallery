@@ -17,9 +17,16 @@ body {
 }
 
 #details {
-  line-height: 0.7;
+  line-height: 0.9;
   margin: none;
   padding: 0px;
+  list-style-type: none;
+}
+
+ul{
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
 }
 
 @media (max-width: 1050px) {

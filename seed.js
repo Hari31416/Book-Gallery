@@ -14,10 +14,13 @@ const mongoose = require("mongoose");
 const Book = require("./models/book");
 
 mongoose
-  .connect("mongodb://localhost:27017/bookGallery", {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  })
+  .connect(
+    "mongodb+srv://hari31416:Hari%40MongoDB@cluster0.k0zxu.mongodb.net/bookGallery",
+    {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    }
+  )
   .then(() => {
     console.log("MONGO CONNECTION OPEN!!!");
   })
@@ -39,6 +42,8 @@ Book.deleteMany({}, (err) => {
 // console.log(genres);
 // console.log(typeof genres);
 // console.log(typeof file);
+
+// MAKING GENRE A LIST AND CLEANING IT
 file.forEach((f) => {
   var rawGenre = f.genre;
   var genres = rawGenre.slice(1, rawGenre.length - 1).split(", ");
@@ -49,6 +54,20 @@ file.forEach((f) => {
   }
   f.genre = genres;
 });
+
+// REMOVING DUPLICATES
+file.forEach((f) => {
+  var rawGenre = f.genre;
+  var genreFinal = [];
+  for (let i = 0; i < rawGenre.length; i++) {
+    var element = rawGenre[i];
+    if (!genreFinal.includes(element)) {
+      genreFinal.push(element);
+    }
+  }
+  f.genre = genreFinal;
+});
+
 Book.insertMany(file)
   .then((res) => {
     console.log(res);

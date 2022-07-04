@@ -7,8 +7,12 @@
   <div class="row">
     <div class="col-md-10 col-lg-8 col-sm-12 offset-md-1 offset-lg-2">
       <% if (books.length!==0) { %>
-      <h3 class="py-3">Here is a list of all the books:</h3>
-
+      <h3 class="py-3">Here is a list of all the books.</h3>
+      <% if (allBooks) { %>
+      <p class="lead"> There are total <%= books.length %> books here. </p>
+      <% } else { %>
+      <p class="lead">There are total <%= books.length %> books matching the query.</p>
+      <% } %>
       <% } else { %>
       <h3 class="py-3">Sorry! No book found.</h3>
       <p class="lead">Try using different queries.</p>

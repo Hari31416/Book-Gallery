@@ -7,10 +7,13 @@ const mongoose = require("mongoose");
 const Book = require("./models/book");
 
 mongoose
-  .connect("mongodb://localhost:27017/bookGallery", {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  })
+  .connect(
+    "mongodb+srv://hari31416:Hari%40MongoDB@cluster0.k0zxu.mongodb.net/bookGallery",
+    {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    }
+  )
   .then(() => {
     console.log("MONGO CONNECTION OPEN!!!");
   })
@@ -48,15 +51,15 @@ app.get("/", async (req, res) => {
       break;
     }
   }
-  console.log(books[0]);
   res.render("home", { title: title, books: books });
 });
 
 // THE BOOKS ROUTE
 app.get("/books", async (req, res) => {
   const title = "All Books";
-  const { author, genre } = req.query;
-  if (author === undefined && genre === undefined) {
+  const { author, genre, series } = req.query;
+  var query;
+  if (author === undefined && genre === undefined && series === undefined) {
     query = {};
   }
   if (author !== undefined && genre === undefined) {
@@ -68,8 +71,20 @@ app.get("/books", async (req, res) => {
   if (author !== undefined && genre !== undefined) {
     query = { author: author, genre: genre };
   }
+  if (series !== undefined) {
+    query = { series: series };
+  }
+
   var books = await Book.find(query);
-  res.render("allbooks", { title: title, books: books });
+  var allBooks;
+  const numBooks = 450;
+  foundBooksLength = books.length;
+  if (foundBooksLength === numBooks) {
+    allBooks = true;
+  } else {
+    allBooks = false;
+  }
+  res.render("allbooks", { title: title, books: books, allBooks: allBooks });
 });
 
 // THE BOOK DETAIL ROUTE
