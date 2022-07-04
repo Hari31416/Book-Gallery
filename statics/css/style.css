@@ -1,10 +1,18 @@
 body {
+    /* background: url("/images/bg2.png");
+    background-size: 100% auto;
+    background-repeat: round;
+    background-attachment: repeat; */
+    /* opacity: 0.5; */
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    /* background-color: #eec2c2; */
+    background-color: #daf6db;
+    /* color: rgb(255, 255, 255); */
 }
-
+.bg-color{
+    background-color: #daf6db !important;
+}
 .border {
     border-width: 3px !important;
 }

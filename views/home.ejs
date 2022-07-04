@@ -1,104 +1,125 @@
 <!-- THE HAED -->
 <%- include('partials/head', {title})%>
-<!-- THE NAV -->
-<%- include('partials/nav')%>
-<!-- THE BODY -->
-<!-- <div class="container"> -->
-<div class="cantainer">
-  <h1 class="text-center py-3 heading">Books: Your Best Friend</h1>
-  <blockquote class="blockquote text-center">
-    <p class="mb-0 ">
-    <blockquote class="blockquote text-center">
-      <p class="mb-0 text-primary">“There is no friend as loyal as a book.”</p>
-      <footer class="blockquote-footer"><cite title="Source Title">Ernest Hemingway
-        </cite></footer>
-    </blockquote>
-    <blockquote class="blockquote text-center">
-      <p class="mb-0 text-primary">“The person, be it gentleman or lady, who has not pleasure in a good novel,
-        must be
-        intolerably stupid.”</p>
-      <footer class="blockquote-footer">Jane Austen in <cite title="Source Title">Northanger Abbey
-        </cite></footer>
-    </blockquote>
-    <blockquote class="blockquote text-center">
-      <p class="mb-0 text-primary ">“So many books, so little time.”</p>
-      <footer class="blockquote-footer"><cite title="Source Title">Frank Zappa
-        </cite></footer>
-    </blockquote>
+  <!-- THE NAV -->
+  <%- include('partials/nav')%>
+    <!-- THE BODY -->
+    <!-- <div class="container"> -->
+    <div class="cantainer">
+      <h1 class="text-center py-3 heading">Books: Your Best Friend</h1>
+      <blockquote class="blockquote text-center">
+        <p class="mb-0 ">
+        <blockquote class="blockquote text-center">
+          <p class="mb-0 text-primary">“There is no friend as loyal as a book.”</p>
+          <footer class="blockquote-footer"><cite title="Source Title">Ernest Hemingway
+            </cite></footer>
+        </blockquote>
+        <blockquote class="blockquote text-center">
+          <p class="mb-0 text-primary">“The person, be it gentleman or lady, who has not pleasure in a good novel,
+            must be
+            intolerably stupid.”</p>
+          <footer class="blockquote-footer">Jane Austen in <cite title="Source Title">Northanger Abbey
+            </cite></footer>
+        </blockquote>
+        <blockquote class="blockquote text-center">
+          <p class="mb-0 text-primary ">“So many books, so little time.”</p>
+          <footer class="blockquote-footer"><cite title="Source Title">Frank Zappa
+            </cite></footer>
+        </blockquote>
 
-</div>
-<!-- CAROUSEL -->
-<section>
-  <div class="container py-3">
-    <div class="row align-items-center justify-content-center">
-      <div class="col-11 col-md-10 col-lg-9">
-        <div id="carouselExampleControls" class="carousel slide carousel-fade px-3 mx-3" data-ride="carousel">
-          <div class="carousel-inner">
-            <% for( let i = 0; i < books.length; i++ ) { %>
-            <% if (i===0) { %>
-            <div class="carousel-item active">
-              <a href="/books/<%= books[i]._id %> "><img style="height: 100%;" src="<%= books[i].imgUrlsHigh[0] %>" class="d-block carousel-images" alt="<%= books[i].name %> "></a>
-            </div>
-            <% } else { %>
-            <div class="carousel-item">
-              <a href="/books/<%= books[i]._id %> "><img style="height: 100%;" src="<%= books[i].imgUrlsHigh[0] %>" class="d-block carousel-images" alt="<%= books[i].name %> "></a>
-            </div>
-            <% } %>
-            <% } %>
+    </div>
+    <!-- CAROUSEL -->
+    <section>
+      <div class="container py-3">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-11 col-md-10 col-lg-9">
+            <div id="carouselExampleControls" class="carousel slide carousel-fade px-3 mx-3" data-ride="carousel">
+              <div class="carousel-inner">
+                <% for( let i=0; i < books.length; i++ ) { %>
+                  <% if (i===0) { %>
+                    <div class="carousel-item active">
+                      <a href="/books/<%= books[i]._id %> "><img style="height: 100%;"
+                          src="<%= books[i].imgUrlsHigh[0] %>" class="d-block carousel-images"
+                          alt="<%= books[i].name %> "></a>
+                    </div>
+                    <% } else { %>
+                      <div class="carousel-item">
+                        <a href="/books/<%= books[i]._id %> "><img style="height: 100%;"
+                            src="<%= books[i].imgUrlsHigh[0] %>" class="d-block carousel-images"
+                            alt="<%= books[i].name %> "></a>
+                      </div>
+                      <% } %>
+                        <% } %>
 
-            <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </button>
+                          <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls"
+                            data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </button>
+                          <button class="carousel-control-next" type="button" data-target="#carouselExampleControls"
+                            data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </button>
+              </div>
+            </div>
+
           </div>
         </div>
+      </div>
+    </section>
+    <!-- END OF CAROUSEL -->
+    <div class="blank"></div>
+    <div class="container">
+      <% for( let book of books) { %>
+        <div id="listItems" class="row justify-content-center py-2 align-items-center">
+          <div class="col-5 col-md-4 col-lg-3">
+            <a href="/books/<%= book._id %> "><img src="<%= book.imgUrlsHigh %>" alt="<%= book.name %> "
+                class="img-fluid px-2"></a>
+          </div>
+          <div class="col-6 col-md-4 col-lg-3 details">
+            <div class="row py-2 text-center">
+              <!-- <div class="col-12"> -->
+              <p id="bookName" class="lead"><a href="/books/<%= book._id %> ">
+                  <%= book.name %>
+                </a> <br>by <a href="/books?author=<%= book.author %> ">
+                  <%= book.author %>
+                </a>
+                <br> <span id="series"><a href="/books?series=<%= book.series %> ">
+                    <%= book.series %>
+                  </a></span>
+              </p>
 
-      </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-5 d-block d-md-inline-block">
+            <div class="text-center" id="details">
+              <p>ISBN: <%= book.ISBN %>
+              </p>
+              <p>Publisher: <%= book.publisher %>
+              </p>
+              <p>Average Rating: <%= book.avgRating %>
+              </p>
+              <p>Number of Pages: <%= book.numPages %>
+              </p>
+              <p>Language: <%= book.language %>
+              </p>
+              <p>Genre:</p>
+              <ul class="list-group border-0 pb-2 bg-color">
+                <% for( let i=0; i < book.genre.length; i++ ) { %>
+                  <a href="/books?genre=<%= book.genre[i] %> ">
+                    <li class="list-group-item border-0 bg-color">
+                      <%= book.genre[i] %>
+                    </li>
+                  </a>
+                  <% } %>
+              </ul>
+              <p class="">Publication Date: <%= book.yearPublished %>
+              </p>
+            </div>
+          </div>
+        </div>
+        <% } %>
     </div>
-  </div>
-</section>
-<!-- END OF CAROUSEL -->
-<div class="blank"></div>
-<div class="container">
-  <% for( let book of books) { %>
-  <div id="listItems" class="row justify-content-center py-2 align-items-center">
-    <div class="col-5 col-md-4 col-lg-3">
-      <a href="/books/<%= book._id %> "><img src="<%= book.imgUrlsHigh %>" alt="<%= book.name %> " class="img-fluid px-2"></a>
     </div>
-    <div class="col-6 col-md-4 col-lg-3 details">
-      <div class="row py-2 text-center">
-        <!-- <div class="col-12"> -->
-        <p id="bookName" class="lead"><a href="/books/<%= book._id %> "><%= book.name %></a> <br>by <a href="/books?author=<%= book.author %> "><%= book.author %></a>
-          <br> <span id="series"><a href="/books?series=<%= book.series %> "><%= book.series %> </a></span>
-        </p>
-
-      </div>
-    </div>
-    <div class="col-lg-4 col-md-5 d-block d-md-inline-block">
-      <div class="text-center" id="details">
-        <p>ISBN: <%= book.ISBN %> </p>
-        <p>Publisher: <%= book.publisher %> </p>
-        <p>Average Rating: <%= book.avgRating %> </p>
-        <p>Number of Pages: <%= book.numPages %> </p>
-        <p>Language: <%= book.language %> </p>
-        <p>Genre:</p>
-        <ul class="list-group border-0 pb-2">
-          <% for( let i = 0; i < book.genre.length; i++ ) { %>
-          <a href="/books?genre=<%= book.genre[i] %> ">
-            <li class="list-group-item border-0"><%= book.genre[i] %></li>
-          </a>
-          <% } %>
-        </ul>
-        <p class="">Publication Date: <%= book.yearPublished %> </p>
-      </div>
-    </div>
-  </div>
-  <% } %>
-</div>
-</div>
-<!-- THE FOOTER -->
-<%- include('partials/footer')%>
+    <!-- THE FOOTER -->
+    <%- include('partials/footer')%>

@@ -29,7 +29,7 @@ app.set("views", path.join(__dirname, "views"));
 
 // THE HOME ROUTE
 app.get("/", async (req, res) => {
-  const title = "Welcome to the Homepage";
+  const title = "Book Gallery";
   const books_all = await Book.find();
   var randNums = [];
   for (let index = 0; index < 30; index++) {
@@ -90,6 +90,11 @@ app.get("/books/:id", async (req, res) => {
   const foundBook = await Book.findById(req.params.id);
   title = foundBook.name;
   res.render("book", { title: title, book: foundBook });
+});
+
+app.get("*", (req, res) => {
+  const title = "404 Page Not Found";
+  res.render("404", { title: title });
 });
 app.listen(process.env.PORT || 3000, () => {
   console.log("LISTENING ON PORT 3000");
