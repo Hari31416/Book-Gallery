@@ -7,11 +7,11 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color: #daf6db;
+    background-color: #eaf5ea;
     /* color: rgb(255, 255, 255); */
 }
 .bg-color{
-    background-color: #daf6db !important;
+    background-color: #eaf5ea !important;
 }
 .border {
     border-width: 3px !important;
