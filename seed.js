@@ -1,12 +1,12 @@
 const fs = require("fs");
-var file = JSON.parse(fs.readFileSync("./FINAL_INFO_WITH_EVERYTHING.json"));
+var file = JSON.parse(fs.readFileSync("./FINAL_2.json"));
 // console.log(file);
 
 const mongoose = require("mongoose");
 const Book = require("./models/book");
 mongoose
   .connect(
-    `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.k0zxu.mongodb.net/bookGallery`
+    `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.k0zxu.mongodb.net/bookGalleryNew`,
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
@@ -29,16 +29,16 @@ Book.deleteMany({}, (err) => {
 });
 
 // MAKING GENRE A LIST AND CLEANING IT
-file.forEach((f) => {
-  var rawGenre = f.genre;
-  var genres = rawGenre.slice(1, rawGenre.length - 1).split(", ");
-  for (let i = 0; i < genres.length; i++) {
-    var element = genres[i];
-    element = element.slice(1, element.length - 1);
-    genres[i] = element;
-  }
-  f.genre = genres;
-});
+// file.forEach((f) => {
+//   var rawGenre = f.genre;
+//   var genres = rawGenre.slice(1, rawGenre.length - 1).split(", ");
+//   for (let i = 0; i < genres.length; i++) {
+//     var element = genres[i];
+//     element = element.slice(1, element.length - 1);
+//     genres[i] = element;
+//   }
+//   f.genre = genres;
+// });
 
 // REMOVING DUPLICATES
 file.forEach((f) => {

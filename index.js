@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 const Book = require("./models/book");
 mongoose
   .connect(
-    `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.k0zxu.mongodb.net/bookGallery`,
+    `mongodb+srv://${process.env.MONGO_USERNAME}:${process.env.MONGO_PASSWORD}@cluster0.k0zxu.mongodb.net/bookGalleryNew`,
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
